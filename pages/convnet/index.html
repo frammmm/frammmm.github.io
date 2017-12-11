@@ -12,7 +12,8 @@
   <div class="wrapper">
     <div class="draw-container">
       <div id="canvas"></div>
-      <canvas id="resized" width="28" height="28"></canvas>
+      <canvas id="resized" width="28" height="28" style="display: none"></canvas>
+      <canvas id="resized-full" width="392" height="392"></canvas>
     </div>
     <div class="controls-container">
       <button id="clear-button">Clear</button>
@@ -22,6 +23,14 @@
         <input type="checkbox" id="checkbox">
         <label for="checkbox" class="visual"></label>
         <label for="checkbox" class="text">Pretty print</label>
+      </div>
+      
+      <button id="pixelate-button">Pixelate</button>
+
+      <div class="checkbox">
+        <input type="checkbox" id="checkbox2">
+        <label for="checkbox2" class="visual"></label>
+        <label for="checkbox2" class="text">Smoothing</label>
       </div>
     </div>
     <div class="output-container">
