@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="css/main.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.6.5/dat.gui.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   <title>Project name</title>
 </head>
 <body>
@@ -13,6 +13,16 @@
     <div class="draw-container">
       <div id="canvas"></div>
       <canvas id="resized" width="28" height="28"></canvas>
+    </div>
+    <div class="controls-container">
+      <button id="clear-button">Clear</button>
+      <button id="move-button">Center</button>
+      <button id="data-button">Get data</button>
+      <div class="checkbox">
+        <input type="checkbox" id="checkbox">
+        <label for="checkbox" class="visual"></label>
+        <label for="checkbox" class="text">Pretty print</label>
+      </div>
     </div>
     <div class="output-container">
       <textarea name="output" id="output" cols="160" rows="30"></textarea>
