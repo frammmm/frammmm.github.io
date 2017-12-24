@@ -31,22 +31,14 @@
       <div class="row">
         <div id="canvas"></div>
         <canvas id="resized-full" width="392" height="392" style="display: none"></canvas>
-        
       </div>
       <div class="row">
-          <div class="control checkbox" style="display: none;">
-            <input type="checkbox" id="multiple">
-            <label for="multiple" class="visual"></label>
-            <label for="multiple" class="text">Multiple Digits</label>
-          </div>
-          <button class="control" id="clear-button">Clear</button>
-          <button class="control" id="data-button">Recognize</button>
-          <div class="control checkbox" style="display: none">
-            <input type="checkbox" id="checkbox">
-            <label for="checkbox" class="visual"></label>
-            <label for="checkbox" class="text">Pretty print</label>
-          </div>
-        </div>
+        <button class="control" id="clear-button">Clear</button>
+        <button class="control" id="data-button">Recognize</button>
+      </div>
+      <div class="row">
+        <div class="control result"></div>
+      </div>
       <div class="row" style="display: none;">
         <textarea name="output" id="output" cols="160" rows="30"></textarea>
       </div>
