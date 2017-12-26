@@ -12,30 +12,20 @@
 
 <body>
   <div class="app-container">
-    <div id="loader">
-      <div class="cube-grid">
-        <div class="cube cube1"></div>
-        <div class="cube cube2"></div>
-        <div class="cube cube3"></div>
-        <div class="cube cube4"></div>
-        <div class="cube cube5"></div>
-        <div class="cube cube6"></div>
-        <div class="cube cube7"></div>
-        <div class="cube cube8"></div>
-        <div class="cube cube9"></div>
-      </div>
-    </div>
     <div class="content">
       <div class="row">
         <div id="canvas"></div>
         <canvas id="resized-full" width="392" height="392" style="display:none;margin-left:2px;"></canvas>
       </div>
-      <div class="row">
+      <div class="row row-border">
         <button class="control" id="clear-button">Clear</button>
         <button class="control" id="data-button">Recognize</button>
       </div>
       <div class="row">
         <div class="control result"><span class="number"></span></div>
+      </div>
+      <div class="result-loader">
+        <div class="bar"></div>
       </div>
     </div>
   </div>
