@@ -1,0 +1,5912 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Attribution": {
+      "Sources": {
+        "lockobank_office": {
+          "id": "lockobank_office",
+          "author": {
+            "name": "Локо-Банк",
+            "uri": "http://www.lockobank.ru"
+          }
+        },
+        "rgsbank": {
+          "id": "rgsbank",
+          "author": {
+            "name": "Росгосстрах Банк, отделения",
+            "uri": "http://rgsbank.ru"
+          }
+        },
+        "smpbank_office": {
+          "id": "smpbank_office",
+          "author": {
+            "name": "smpbank.ru",
+            "uri": "http://www.smpbank.ru"
+          }
+        },
+        "avangard": {
+          "id": "avangard",
+          "author": {
+            "name": "Банк Авангард",
+            "uri": "http://www.avangard.ru"
+          }
+        },
+        "facebook": {
+          "id": "facebook",
+          "author": {
+            "name": "Facebook",
+            "uri": "http://facebook.com"
+          }
+        },
+        "russtandart": {
+          "id": "russtandart",
+          "author": {
+            "name": "rsb.ru",
+            "uri": "http://www.rsb.ru"
+          }
+        },
+        "uralsib": {
+          "id": "uralsib",
+          "author": {
+            "name": "УРАЛСИБ Банк",
+            "uri": "http://www.bankuralsib.ru"
+          }
+        },
+        "ok": {
+          "id": "ok",
+          "author": {
+            "name": "Одноклассники",
+            "uri": "http://ok.ru"
+          }
+        },
+        "twitter": {
+          "id": "twitter",
+          "author": {
+            "name": "Twitter",
+            "uri": "http://twitter.com"
+          }
+        },
+        "aqua_absolutbank": {
+          "id": "aqua_absolutbank",
+          "author": {
+            "name": "absolutbank.ru",
+            "uri": "http://www.absolutbank.ru"
+          }
+        },
+        "sberbank-bankomat": {
+          "id": "sberbank-bankomat",
+          "author": {
+            "name": "Сбербанк России",
+            "uri": "http://www.sberbank.ru"
+          }
+        },
+        "vkontakte": {
+          "id": "vkontakte",
+          "author": {
+            "name": "ВКонтакте",
+            "uri": "http://vk.com"
+          }
+        },
+        "foursquare": {
+          "id": "foursquare",
+          "author": {
+            "name": "Foursquare",
+            "uri": "http://foursquare.com"
+          }
+        },
+        "vostochnyi-ekspress-bank": {
+          "id": "vostochnyi-ekspress-bank",
+          "author": {
+            "name": "Восточный экспресс банк",
+            "uri": "http://www.express-bank.ru"
+          }
+        },
+        "gazprombank": {
+          "id": "gazprombank",
+          "author": {
+            "name": "Газпромбанк",
+            "uri": "http://www.gazprombank.ru"
+          }
+        },
+        "psbank": {
+          "id": "psbank",
+          "author": {
+            "name": "Промсвязьбанк",
+            "uri": "http://www.psbank.ru"
+          }
+        },
+        "leto_bank": {
+          "id": "leto_bank",
+          "author": {
+            "name": "Почта банк",
+            "uri": "http://www.pochtabank.ru"
+          }
+        },
+        "bankvtb_branches": {
+          "id": "bankvtb_branches",
+          "author": {
+            "name": "Банк ВТБ",
+            "uri": "http://www.vtb.ru"
+          }
+        },
+        "sberbank": {
+          "id": "sberbank",
+          "author": {
+            "name": "Сбербанк России",
+            "uri": "http://www.sberbank.ru"
+          }
+        },
+        "aqua_russtandart": {
+          "id": "aqua_russtandart",
+          "author": {
+            "name": "rsb.ru",
+            "uri": "http://www.rsb.ru"
+          }
+        },
+        "watchers_raiffeisenbank_branches": {
+          "id": "watchers_raiffeisenbank_branches",
+          "author": {
+            "name": "Райффайзенбанк",
+            "uri": "http://www.raiffeisen.ru"
+          }
+        },
+        "mkb": {
+          "id": "mkb",
+          "author": {
+            "name": "Московский Кредитный Банк",
+            "uri": "http://mkb.ru"
+          }
+        },
+        "yandex": {
+          "id": "yandex",
+          "author": {
+            "name": "Яндекс",
+            "uri": "https://www.yandex.ru"
+          }
+        },
+        "finsb-office": {
+          "id": "finsb-office",
+          "author": {
+            "name": "Банк Финсервис",
+            "uri": "http://www.finsb.ru"
+          }
+        },
+        "linkedin": {
+          "id": "linkedin",
+          "author": {
+            "name": "Linkedin",
+            "uri": "http://linkedin.com"
+          }
+        },
+        "youtube": {
+          "id": "youtube",
+          "author": {
+            "name": "YouTube",
+            "uri": "http://youtube.com"
+          }
+        },
+        "binbank_otdeleniya": {
+          "id": "binbank_otdeleniya",
+          "author": {
+            "name": "Бинбанк",
+            "uri": "http://www.binbank.ru"
+          }
+        },
+        "instagram": {
+          "id": "instagram",
+          "author": {
+            "name": "Instagram",
+            "uri": "http://instagram.com"
+          }
+        },
+        "aqua_unicreditbank": {
+          "id": "aqua_unicreditbank",
+          "author": {
+            "name": "unicreditbank.ru",
+            "uri": "https://www.unicreditbank.ru"
+          }
+        },
+        "rbc": {
+          "id": "rbc",
+          "author": {
+            "name": "РБК",
+            "uri": "http://www.rbc.ru"
+          }
+        },
+        "aqua_crediteurope_branches": {
+          "id": "aqua_crediteurope_branches",
+          "author": {
+            "name": "crediteurope.ru",
+            "uri": "http://www.crediteurope.ru"
+          }
+        },
+        "sovkom": {
+          "id": "sovkom",
+          "author": {
+            "name": "Совкомбанк",
+            "uri": "http://www.sovcombank.ru"
+          }
+        },
+        "alfa-bank": {
+          "id": "alfa-bank",
+          "author": {
+            "name": "Альфа-Банк",
+            "uri": "http://www.alfabank.ru"
+          }
+        },
+        "aqua_akcept": {
+          "id": "aqua_akcept",
+          "author": {
+            "name": "akcept.ru",
+            "uri": "https://www.akcept.ru"
+          }
+        },
+        "openbank_otd": {
+          "id": "openbank_otd",
+          "author": {
+            "name": "Банк Открытие",
+            "uri": "http://www.openbank.ru"
+          }
+        }
+      }
+    },
+    "ResponseMetaData": {
+      "SearchRequest": {
+        "request": "Банк",
+        "results": 20,
+        "skip": 0,
+        "boundedBy": [
+          [
+            37.04842675,
+            55.43644829
+          ],
+          [
+            38.17590226,
+            56.04690124
+          ]
+        ]
+      },
+      "SearchResponse": {
+        "found": 65,
+        "Point": {
+          "type": "Point",
+          "coordinates": [
+            37.53605923,
+            55.72752112
+          ]
+        },
+        "boundedBy": [
+          [
+            37.49621895,
+            55.7050771
+          ],
+          [
+            37.57589951,
+            55.7499522
+          ]
+        ],
+        "display": "multiple"
+      }
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1",
+        "CompanyMetaData": {
+          "id": "1132205385",
+          "name": "Финам",
+          "address": "Кутузовский просп., 35, Москва, Россия",
+          "postalCode": "121165",
+          "url": "http://www.finam.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            },
+            {
+              "class": "currency exchange",
+              "name": "Обмен валюты",
+              "Tags": {
+                "tag": "plural_name:Обмен валюты"
+              }
+            },
+            {
+              "name": "Брокерская компания",
+              "Tags": {
+                "tag": "plural_name:Брокерские компании"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "5463809798",
+              "name": "Финам Банк, отделения",
+              "seoname": "finam_bank_otdelenya"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 134-63-46",
+              "country": "7",
+              "prefix": "495",
+              "number": "1346346"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 796-93-88",
+              "country": "7",
+              "prefix": "495",
+              "number": "7969388"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "22:00:00"
+                  }
+                ]
+              },
+              {
+                "Saturday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "17:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 10:00–22:00; сб 10:00–17:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 22:00",
+              "short_text": "До 22:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "remote_service",
+              "type": "enum",
+              "name": "дистанц. обслуживание",
+              "values": [
+                {
+                  "id": "by_internet",
+                  "value": "интернет"
+                },
+                {
+                  "id": "by_sms",
+                  "value": "SMS"
+                },
+                {
+                  "id": "by_phone",
+                  "value": "телефон"
+                }
+              ]
+            },
+            {
+              "id": "debit_cards",
+              "type": "bool",
+              "name": "дебетовые карты",
+              "value": true
+            },
+            {
+              "id": "additional_features",
+              "type": "enum",
+              "name": "дополнительные возможности",
+              "values": [
+                {
+                  "id": "payments_to_charities",
+                  "value": "платежи в благотворительные фонды"
+                },
+                {
+                  "id": "payment_of_commercial_tv",
+                  "value": "оплата коммерческого (спутникового) телевидения"
+                },
+                {
+                  "id": "payment_of_tickets",
+                  "value": "оплата авиа- и ж/д билетов"
+                },
+                {
+                  "id": "payment_of_fines_stsi",
+                  "value": "оплата штрафов ГИБДД"
+                },
+                {
+                  "id": "payment_for_education",
+                  "value": "оплата за обучение"
+                },
+                {
+                  "id": "payment_security_system",
+                  "value": "оплата услуг охранной системы"
+                },
+                {
+                  "id": "payment_for_communal_services",
+                  "value": "оплата коммунальных платежей"
+                },
+                {
+                  "id": "payment_of_cellular_communication",
+                  "value": "оплата услуг сотовой связи"
+                },
+                {
+                  "id": "pay_for_internet_access",
+                  "value": "оплата доступа в интернет"
+                },
+                {
+                  "id": "payment_for_phone",
+                  "value": "оплата услуг местной телефонной связи"
+                },
+                {
+                  "id": "payment_online_stores",
+                  "value": "оплата заказов интернет-магазинов"
+                },
+                {
+                  "id": "payment_of_ip_telephony",
+                  "value": "оплата услуг IP-телефонии"
+                },
+                {
+                  "id": "payment_troyka",
+                  "value": "пополнение карты Тройка"
+                },
+                {
+                  "id": "brokerage_account_transfer",
+                  "value": "перевод на брокерский счет"
+                }
+              ]
+            },
+            {
+              "id": "trust_management",
+              "type": "bool",
+              "name": "доверительное управление",
+              "value": true
+            },
+            {
+              "id": "brokerage_service",
+              "type": "bool",
+              "name": "брокерское обслуживание",
+              "value": true
+            },
+            {
+              "id": "payment_by_credit_card",
+              "type": "bool",
+              "name": "оплата картой",
+              "value": true
+            },
+            {
+              "id": "currency_exchange",
+              "type": "bool",
+              "name": "обмен валюты",
+              "value": true
+            },
+            {
+              "id": "depository_service",
+              "type": "bool",
+              "name": "депозитарное обслуживание",
+              "value": true
+            },
+            {
+              "id": "currency_deposit",
+              "type": "enum",
+              "name": "валюта вклада",
+              "values": [
+                {
+                  "id": "deposit_eur",
+                  "value": "евро"
+                },
+                {
+                  "id": "deposit_rur",
+                  "value": "российский рубль"
+                },
+                {
+                  "id": "deposit_usd",
+                  "value": "доллары США"
+                }
+              ]
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "distance_services_corporate_web",
+              "type": "bool",
+              "name": "дистанционное обслуживание юридических лиц через веб-интерфейс",
+              "value": true
+            },
+            {
+              "id": "issued_bank_cards",
+              "type": "enum",
+              "name": "выпускаемые банковские карты",
+              "values": [
+                {
+                  "id": "visa_international",
+                  "value": "Visa International"
+                },
+                {
+                  "id": "eurocard_mastercard",
+                  "value": "Eurocard/Mastercard"
+                }
+              ]
+            },
+            {
+              "id": "mutual_funds",
+              "type": "bool",
+              "name": "ПИФы",
+              "value": true
+            },
+            {
+              "id": "office_type",
+              "type": "enum",
+              "name": "вид отделения",
+              "values": [
+                {
+                  "id": "office_corporate",
+                  "value": "для корпоративных клиентов"
+                },
+                {
+                  "id": "office_sme",
+                  "value": "для предпринимателей, среднего и малого бизнеса"
+                },
+                {
+                  "id": "office_retail",
+                  "value": "для частных лиц"
+                }
+              ]
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            },
+            {
+              "id": "payment_for_services",
+              "type": "bool",
+              "name": "сервис оплаты услуг",
+              "value": true
+            }
+          ],
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "http://facebook.com/finam.ru"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "http://vk.com/finam_ru"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://instagram.com/finam_fotoblog"
+            },
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "https://twitter.com/finam_blog"
+            },
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "https://twitter.com/finamalert"
+            },
+            {
+              "type": "social",
+              "aref": "#youtube",
+              "href": "https://www.youtube.com/user/FinamWebinar"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "has_verified_owner",
+              "value": "1"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "nyak",
+              "id": "1939667741"
+            }
+          ]
+        },
+        "ExperimentalMetaData": {
+          "ExperimentalStorage": [
+            {
+              "key": "advOrderId",
+              "value": "2615417"
+            },
+            {
+              "key": "advLang",
+              "value": "ru"
+            },
+            {
+              "key": "advBasicTitle",
+              "value": "Валюта по биржевому курсу в Финам"
+            },
+            {
+              "key": "advBasicText",
+              "value": "Вывод денежных средств в день сделки. Комиссия от 0,0027% Выгодные условия!"
+            },
+            {
+              "key": "advBasicUrl",
+              "value": "http://broker.finam.ru/b2b/conversion/?utm_source=yandex_maps&amp;utm_content=ofis_Kutuzovskiy_valuta&amp;utm_campaign=obmen_valut"
+            },
+            {
+              "key": "advLogoUrl",
+              "value": "https://avatars.mds.yandex.net/get-tycoon/742106/2a00000165a4c787edd4f852f27c82b18ba4/logo"
+            },
+            {
+              "key": "advLogoBgColor",
+              "value": "#ffffff"
+            },
+            {
+              "key": "advMainPhoto",
+              "value": "https://avatars.mds.yandex.net/get-tycoon/474201/2a00000165a5519f7d384bab529bb60daed1/main"
+            },
+            {
+              "key": "advAbout",
+              "value": "Финам - один из лидеров фондового рынка России. На финансовом рынке более 24 лет. Доступ на все российские и иностранные биржи, лицензии. Высокая надежность. Единый счет для всех  отечественных и зарубежных площадок, брокерская комиссия за контракт на срочном рынке 45 коп. Открытие счетов online. Широкий выбор инструментов: контракты на индекс РТС, индекс ММВБ, российский индекс волатильности, акции, валюту, облигации федерального займа, драгоценные металлы и сырье. 50+ программ и приложений для торговли, техническая поддержка online. Возможность быть в 5000 раз быстрее остальных за счет прямого (DMA) доступа к бирже! Готовые инвестиционные решения с доходностью до 45% годовых."
+            },
+            {
+              "key": "advPromoTitle",
+              "value": "Конкурс трейдеров. На демо-счете 400 000 виртуальных рублей"
+            },
+            {
+              "key": "advPromoDetails",
+              "value": "Лига трейдеров 2.0 – конкурс для начинающих и опытных трейдеров. Призовой фонд до 1 000 000 рублей каждый месяц и др. ценные призы. Торгуйте виртуальными – получайте реальные! Регистрируйтесь."
+            },
+            {
+              "key": "advPromoDisclaimer",
+              "value": "Содействие в подборе финансовых услуг/организаций. 18+"
+            },
+            {
+              "key": "advPromoUrl",
+              "value": "https://www.finam.ru/investor/istart00026/?utm_source=yandex_maps&amp;utm_content=ofis_Kutuzovskiy_Liga_trejderov&amp;utm_campaign=obmen_valut"
+            },
+            {
+              "key": "advPromoBanner",
+              "value": "https://avatars.mds.yandex.net/get-tycoon/925637/2a00000165a4bb0cf8cbf5a3deca21b02d79/banner"
+            },
+            {
+              "key": "advPromoStartTime",
+              "value": "1536058726726"
+            },
+            {
+              "key": "advPromoStopTime",
+              "value": "1542711526000"
+            },
+            {
+              "key": "advProductCurrency",
+              "value": "rub"
+            },
+            {
+              "key": "advProductTitle",
+              "value": "Накопить на машину, квартиру"
+            },
+            {
+              "key": "advProductUrl",
+              "value": "https://www.finam.ru/landings/kopilka-big-purchases/?utm_source=yandex_maps&amp;utm_content=ofis_Kutuzovskiy_kopilka&amp;utm_campaign=obmen_valut"
+            },
+            {
+              "key": "advProductPhoto",
+              "value": "https://avatars.mds.yandex.net/get-tycoon/925637/2a00000165fc37348d8b203697cbdcbb9ea1/product"
+            },
+            {
+              "key": "advProductPrice",
+              "value": "100000.0"
+            },
+            {
+              "key": "advProductTitle",
+              "value": "Стратегии опытных трейдеров"
+            },
+            {
+              "key": "advProductUrl",
+              "value": "https://www.finam.ru/landings/multifollow/?utm_source=yandex_maps&amp;utm_content=ofis_Kutuzovskiy_multisled&amp;utm_campaign=obmen_valut"
+            },
+            {
+              "key": "advProductPhoto",
+              "value": "https://avatars.mds.yandex.net/get-tycoon/474201/2a00000165fc3743c6215db657b99e5ad5d5/product"
+            },
+            {
+              "key": "advProductPrice",
+              "value": "200000.0"
+            },
+            {
+              "key": "advProductTitle",
+              "value": "Потенц. доходность до 235%"
+            },
+            {
+              "key": "advProductUrl",
+              "value": "https://www.finam.ru/landings/defense/?utm_source=yandex_maps&amp;utm_content=ofis_Kutuzovskiy_investa&amp;utm_campaign=obmen_valut"
+            },
+            {
+              "key": "advProductPhoto",
+              "value": "https://avatars.mds.yandex.net/get-tycoon/398420/2a00000165fc375b43564fc9ad9df8cb12a1/product"
+            },
+            {
+              "key": "advProductPrice",
+              "value": "700000.0"
+            },
+            {
+              "key": "advProductTitle",
+              "value": "С комиссией 0,0177% от оборота"
+            },
+            {
+              "key": "advProductUrl",
+              "value": "https://www.finam.ru/landings/testdrive/?utm_source=yandex_maps&amp;utm_content=ofis_Kutuzovskiy_testdrive&amp;utm_campaign=obmen_valut"
+            },
+            {
+              "key": "advProductPhoto",
+              "value": "https://avatars.mds.yandex.net/get-tycoon/474201/2a00000165fc376f260e98b45db21285a3c1/product"
+            },
+            {
+              "key": "advProductPrice",
+              "value": "1.0"
+            },
+            {
+              "key": "advProductTitle",
+              "value": "Подберите свой инвест.портфель"
+            },
+            {
+              "key": "advProductUrl",
+              "value": "https://www.finam.ru/landings/roboadvisor/#/user/1/?utm_source=yandex_maps&amp;utm_content=ofis_Kutuzovskiy_roboadvisor&amp;utm_campaign=obmen_valut"
+            },
+            {
+              "key": "advProductPhoto",
+              "value": "https://avatars.mds.yandex.net/get-tycoon/742106/2a00000165fc37a392024548265938299535/product"
+            },
+            {
+              "key": "advProductPrice",
+              "value": "100000.0"
+            },
+            {
+              "key": "advProductTitle",
+              "value": "ИИС в Финам"
+            },
+            {
+              "key": "advProductUrl",
+              "value": "https://www.finam.ru/investor/iis2/?utm_source=yandex_maps&amp;utm_content=ofis_Kutuzovskiy_iis&amp;utm_campaign=obmen_valut"
+            },
+            {
+              "key": "advProductPhoto",
+              "value": "https://avatars.mds.yandex.net/get-tycoon/925637/2a00000165fc37cb9277b03a6565727078d0/product"
+            },
+            {
+              "key": "advProductPrice",
+              "value": "30000.0"
+            },
+            {
+              "key": "advProductTitle",
+              "value": "Мобильные приложения от Финам"
+            },
+            {
+              "key": "advProductUrl",
+              "value": "https://www.finam.ru/services/mobile/?utm_source=yandex_maps&amp;utm_content=ofis_Kutuzovskiy_mobile&amp;utm_campaign=obmen_valut"
+            },
+            {
+              "key": "advProductPhoto",
+              "value": "https://avatars.mds.yandex.net/get-tycoon/474201/2a000001660b1d445ee57b659830f6922209/product"
+            },
+            {
+              "key": "advProductPrice",
+              "value": "1.0"
+            }
+          ]
+        },
+        "description": "Кутузовский просп., 35, Москва, Россия",
+        "name": "Финам",
+        "boundedBy": [
+          [
+            37.53312174,
+            55.73713168
+          ],
+          [
+            37.54133234,
+            55.74176377
+          ]
+        ],
+        "attributions": [
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.537226,
+          55.739447
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.537226,
+            55.739447
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "2",
+        "CompanyMetaData": {
+          "id": "1074247454",
+          "name": "Райффайзен банк",
+          "nameHighlight": [
+            [
+              11,
+              15
+            ]
+          ],
+          "address": "Кутузовский просп., 34, стр. 14, Москва, Россия",
+          "postalCode": "121170",
+          "url": "http://www.raiffeisen.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6003399",
+              "name": "Райффайзенбанк, отделения",
+              "seoname": "raiffeisenbank"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 700-17-17",
+              "country": "7",
+              "prefix": "800",
+              "number": "7001717"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 721-91-00",
+              "country": "7",
+              "prefix": "495",
+              "number": "7219100",
+              "info": "информационный центр"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "20:00:00"
+                  }
+                ]
+              },
+              {
+                "Saturday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "17:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 10:00–20:00; сб 10:00–17:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 20:00",
+              "short_text": "До 20:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "remote_service",
+              "type": "enum",
+              "name": "дистанц. обслуживание",
+              "values": [
+                {
+                  "id": "by_internet",
+                  "value": "интернет"
+                },
+                {
+                  "id": "by_sms",
+                  "value": "SMS"
+                },
+                {
+                  "id": "by_phone",
+                  "value": "телефон"
+                }
+              ]
+            },
+            {
+              "id": "debit_cards",
+              "type": "bool",
+              "name": "дебетовые карты",
+              "value": true
+            },
+            {
+              "id": "additional_features",
+              "type": "enum",
+              "name": "дополнительные возможности",
+              "values": [
+                {
+                  "id": "buying_american_express",
+                  "value": "покупка-продажа дорожных чеков American Express"
+                },
+                {
+                  "id": "payment_for_communal_services",
+                  "value": "оплата коммунальных платежей"
+                }
+              ]
+            },
+            {
+              "id": "loans_private_individuals",
+              "type": "enum",
+              "name": "кредитование частных лиц",
+              "values": [
+                {
+                  "id": "target_credit",
+                  "value": "целевой кредит"
+                },
+                {
+                  "id": "mortgage",
+                  "value": "ипотека"
+                },
+                {
+                  "id": "autocredit",
+                  "value": "автокредит"
+                },
+                {
+                  "id": "consumer_credit",
+                  "value": "потребительский кредит"
+                }
+              ]
+            },
+            {
+              "id": "accepts_card_mir",
+              "type": "bool",
+              "name": "обслуживает карту Мир",
+              "value": true
+            },
+            {
+              "id": "currency_exchange",
+              "type": "bool",
+              "name": "обмен валюты",
+              "value": true
+            },
+            {
+              "id": "currency_deposit",
+              "type": "enum",
+              "name": "валюта вклада",
+              "values": [
+                {
+                  "id": "deposit_eur",
+                  "value": "евро"
+                },
+                {
+                  "id": "deposit_rur",
+                  "value": "российский рубль"
+                },
+                {
+                  "id": "deposit_usd",
+                  "value": "доллары США"
+                }
+              ]
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "business_lending",
+              "type": "bool",
+              "name": "кредитование бизнеса",
+              "value": true
+            },
+            {
+              "id": "rent_safe",
+              "type": "bool",
+              "name": "аренда сейфовых ячеек",
+              "value": true
+            },
+            {
+              "id": "issued_bank_cards",
+              "type": "enum",
+              "name": "выпускаемые банковские карты",
+              "values": [
+                {
+                  "id": "visa_international",
+                  "value": "Visa International"
+                },
+                {
+                  "id": "eurocard_mastercard",
+                  "value": "Eurocard/Mastercard"
+                }
+              ]
+            },
+            {
+              "id": "mutual_funds",
+              "type": "bool",
+              "name": "ПИФы",
+              "value": true
+            },
+            {
+              "id": "money_transfers",
+              "type": "enum",
+              "name": "денежные переводы",
+              "values": [
+                {
+                  "id": "money_gram",
+                  "value": "MoneyGram"
+                }
+              ]
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": true
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "http://www.facebook.com/raiffeisenbankrus"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://instagram.com/raiffeisenbank_rus"
+            },
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "https://twitter.com/Raiffeisen_Ru"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/raiffeisenbankrus"
+            },
+            {
+              "type": "attribution",
+              "aref": "#watchers_raiffeisenbank_branches",
+              "href": "http://www.raiffeisen.ru/offices/poi/?id=6"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "has_verified_owner",
+              "value": "1"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "nyak",
+              "id": "1541648606"
+            }
+          ]
+        },
+        "description": "Кутузовский просп., 34, стр. 14, Москва, Россия",
+        "name": "Райффайзен банк",
+        "boundedBy": [
+          [
+            37.52650116,
+            55.73758275
+          ],
+          [
+            37.53471176,
+            55.74221479
+          ]
+        ],
+        "attributions": [
+          "#foursquare",
+          "#watchers_raiffeisenbank_branches",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.530605,
+          55.7399
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.530605,
+            55.7399
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3",
+        "CompanyMetaData": {
+          "id": "1000628488",
+          "name": "Альфа-Банк",
+          "nameHighlight": [
+            [
+              6,
+              10
+            ]
+          ],
+          "address": "Кутузовский просп., 30, Москва, Россия",
+          "postalCode": "121165",
+          "url": "https://alfabank.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            },
+            {
+              "name": "Расчётно-кассовый центр",
+              "Tags": {
+                "tag": "plural_name:Расчетно-кассовые центры"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6001993",
+              "name": "Альфа-Банк, отделения",
+              "seoname": "alfa_bank"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 200-00-00",
+              "country": "7",
+              "prefix": "800",
+              "number": "2000000",
+              "info": "для частных лиц"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 788-88-78",
+              "country": "7",
+              "prefix": "495",
+              "number": "7888878",
+              "info": "для физических лиц"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 755-58-58",
+              "country": "7",
+              "prefix": "495",
+              "number": "7555858",
+              "info": "для юридических лиц"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "09:00:00",
+                    "to": "21:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 9:00–21:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 21:00",
+              "short_text": "До 21:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "debit_cards",
+              "type": "bool",
+              "name": "дебетовые карты",
+              "value": true
+            },
+            {
+              "id": "loans_private_individuals",
+              "type": "enum",
+              "name": "кредитование частных лиц",
+              "values": [
+                {
+                  "id": "mortgage",
+                  "value": "ипотека"
+                },
+                {
+                  "id": "autocredit",
+                  "value": "автокредит"
+                }
+              ]
+            },
+            {
+              "id": "accepts_card_mir",
+              "type": "bool",
+              "name": "обслуживает карту Мир",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "rent_safe",
+              "type": "bool",
+              "name": "аренда сейфовых ячеек",
+              "value": true
+            },
+            {
+              "id": "office_type",
+              "type": "enum",
+              "name": "вид отделения",
+              "values": [
+                {
+                  "id": "office_vip",
+                  "value": "залы для VIP-клиентов"
+                },
+                {
+                  "id": "office_retail",
+                  "value": "для частных лиц"
+                }
+              ]
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": true
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#ok",
+              "href": "https://ok.ru/alfabank"
+            },
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "https://twitter.com/alfabank"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/alfabank"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/alfabank"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://www.instagram.com/alfabankru/"
+            },
+            {
+              "type": "social",
+              "aref": "#youtube",
+              "href": "https://www.youtube.com/user/alfabankru"
+            },
+            {
+              "type": "attribution",
+              "aref": "#alfa-bank",
+              "href": "https://alfabank.ru/office/moscow/kutuzovsky/"
+            },
+            {
+              "type": "attribution",
+              "aref": "#alfa-bank",
+              "href": "https://alfabank.ru/office/moscow/kutuzovsky2/"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "has_verified_owner",
+              "value": "1"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "nyak",
+              "id": "1541660045"
+            }
+          ]
+        },
+        "description": "Кутузовский просп., 30, Москва, Россия",
+        "name": "Альфа-Банк",
+        "boundedBy": [
+          [
+            37.5334631,
+            55.73914372
+          ],
+          [
+            37.5416737,
+            55.74377557
+          ]
+        ],
+        "attributions": [
+          "#alfa-bank",
+          "#foursquare",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.537565,
+          55.74146
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.537565,
+            55.74146
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "4",
+        "CompanyMetaData": {
+          "id": "1133133174",
+          "name": "Банк ВТБ, отделение",
+          "nameHighlight": [
+            [
+              0,
+              4
+            ]
+          ],
+          "shortName": "ВТБ",
+          "address": "площадь Победы, 2, корп. 2, Москва, Россия",
+          "postalCode": "121170",
+          "url": "http://www.vtb.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6002211",
+              "name": "Банк ВТБ, отделения",
+              "seoname": "bank_vtb_otdelenya"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 100-24-24",
+              "country": "7",
+              "prefix": "800",
+              "number": "1002424"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 775-54-54",
+              "country": "7",
+              "prefix": "495",
+              "number": "7755454"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 783-10-76",
+              "country": "7",
+              "prefix": "495",
+              "number": "7831076"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 739-77-39",
+              "country": "7",
+              "prefix": "495",
+              "number": "7397739"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "09:00:00",
+                    "to": "18:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 9:00–18:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 18:00",
+              "short_text": "До 18:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": false
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": false
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "http://twitter.com/vtb"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "http://www.facebook.com/vtbgroup"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/vtb"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/vtb_bm"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/vtbrussia/"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://www.instagram.com/bankvtb"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "snippet_show_subline",
+              "value": "exchange"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "nyak",
+              "id": "1541629062"
+            }
+          ]
+        },
+        "description": "площадь Победы, 2, корп. 2, Москва, Россия",
+        "name": "Банк ВТБ, отделение",
+        "boundedBy": [
+          [
+            37.51355643,
+            55.73502831
+          ],
+          [
+            37.52176703,
+            55.73966065
+          ]
+        ],
+        "attributions": [
+          "#bankvtb_branches",
+          "#foursquare",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.517664,
+          55.737344
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.517664,
+            55.737344
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5",
+        "CompanyMetaData": {
+          "id": "1165573186",
+          "name": "Открытие",
+          "address": "Кутузовский просп., 43, Москва, Россия",
+          "postalCode": "121170",
+          "url": "https://www.open.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            },
+            {
+              "class": "currency exchange",
+              "name": "Обмен валюты",
+              "Tags": {
+                "tag": "plural_name:Обмен валюты"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "318426244",
+              "name": "Банк Открытие, отделения",
+              "seoname": "otkritie"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 700-78-77",
+              "country": "7",
+              "prefix": "800",
+              "number": "7007877"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 787-78-77",
+              "country": "7",
+              "prefix": "495",
+              "number": "7877877"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "19:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 10:00–19:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 19:00",
+              "short_text": "До 19:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": false
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/otkritiecorp"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/otkritie"
+            },
+            {
+              "type": "social",
+              "aref": "#youtube",
+              "href": "https://www.youtube.com/user/otkritiebank"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "has_verified_owner",
+              "value": "1"
+            }
+          }
+        },
+        "description": "Кутузовский просп., 43, Москва, Россия",
+        "name": "Открытие",
+        "boundedBy": [
+          [
+            37.52526148,
+            55.73598625
+          ],
+          [
+            37.53347208,
+            55.74061847
+          ]
+        ],
+        "attributions": [
+          "#openbank_otd",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.529367,
+          55.738304
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.529367,
+            55.738304
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "6",
+        "CompanyMetaData": {
+          "id": "1126329588",
+          "name": "Банк Авангард",
+          "nameHighlight": [
+            [
+              0,
+              4
+            ]
+          ],
+          "shortName": "Авангард",
+          "address": "Усачёва ул., 35, стр. 1, Москва, Россия",
+          "postalCode": "119048",
+          "url": "http://www.avangard.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            },
+            {
+              "class": "currency exchange",
+              "name": "Обмен валюты",
+              "Tags": {
+                "tag": "plural_name:Обмен валюты"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6003529",
+              "name": "Банк Авангард, отделения",
+              "seoname": "bank_avangard_otdeleniya"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 333-98-98",
+              "country": "7",
+              "prefix": "800",
+              "number": "3339898"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 234-98-98",
+              "country": "7",
+              "prefix": "495",
+              "number": "2349898"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (499) 244-31-93",
+              "country": "7",
+              "prefix": "499",
+              "number": "2443193"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Everyday": true,
+                "Intervals": [
+                  {
+                    "from": "09:30:00",
+                    "to": "15:00:00"
+                  },
+                  {
+                    "from": "15:40:00",
+                    "to": "21:15:00"
+                  }
+                ]
+              }
+            ],
+            "text": "ежедневно, 9:30–21:15, перерыв 15:00–15:40",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 15:00",
+              "short_text": "До 15:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "remote_service",
+              "type": "enum",
+              "name": "дистанц. обслуживание",
+              "values": [
+                {
+                  "id": "by_internet",
+                  "value": "интернет"
+                }
+              ]
+            },
+            {
+              "id": "debit_cards",
+              "type": "bool",
+              "name": "дебетовые карты",
+              "value": true
+            },
+            {
+              "id": "additional_features",
+              "type": "enum",
+              "name": "дополнительные возможности",
+              "values": [
+                {
+                  "id": "payment_of_commercial_tv",
+                  "value": "оплата коммерческого (спутникового) телевидения"
+                },
+                {
+                  "id": "payment_of_tickets",
+                  "value": "оплата авиа- и ж/д билетов"
+                },
+                {
+                  "id": "payment_for_communal_services",
+                  "value": "оплата коммунальных платежей"
+                },
+                {
+                  "id": "payment_of_cellular_communication",
+                  "value": "оплата услуг сотовой связи"
+                },
+                {
+                  "id": "pay_for_internet_access",
+                  "value": "оплата доступа в интернет"
+                }
+              ]
+            },
+            {
+              "id": "currency_exchange",
+              "type": "bool",
+              "name": "обмен валюты",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "currency_deposit",
+              "type": "enum",
+              "name": "валюта вклада",
+              "values": [
+                {
+                  "id": "deposit_eur",
+                  "value": "евро"
+                },
+                {
+                  "id": "deposit_rur",
+                  "value": "российский рубль"
+                },
+                {
+                  "id": "deposit_usd",
+                  "value": "доллары США"
+                }
+              ]
+            },
+            {
+              "id": "issued_bank_cards",
+              "type": "enum",
+              "name": "выпускаемые банковские карты",
+              "values": [
+                {
+                  "id": "visa_international",
+                  "value": "Visa International"
+                },
+                {
+                  "id": "eurocard_mastercard",
+                  "value": "Eurocard/Mastercard"
+                }
+              ]
+            },
+            {
+              "id": "office_type",
+              "type": "enum",
+              "name": "вид отделения",
+              "values": [
+                {
+                  "id": "office_corporate",
+                  "value": "для корпоративных клиентов"
+                },
+                {
+                  "id": "office_sme",
+                  "value": "для предпринимателей, среднего и малого бизнеса"
+                },
+                {
+                  "id": "office_retail",
+                  "value": "для частных лиц"
+                }
+              ]
+            },
+            {
+              "id": "money_transfers",
+              "type": "enum",
+              "name": "денежные переводы",
+              "values": [
+                {
+                  "id": "western_union",
+                  "value": "Western Union"
+                },
+                {
+                  "id": "unistream",
+                  "value": "Юнистрим"
+                }
+              ]
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": false
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "http://vk.com/bankavangard"
+            },
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "https://twitter.com/bank_avangard"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/bankavangard"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://www.instagram.com/avangard_bank"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "has_verified_owner",
+              "value": "1"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "parent_org",
+              "id": "1223805997"
+            },
+            {
+              "scope": "nyak",
+              "id": "1747594195"
+            }
+          ]
+        },
+        "description": "Усачёва ул., 35, стр. 1, Москва, Россия",
+        "name": "Банк Авангард",
+        "boundedBy": [
+          [
+            37.55634319,
+            55.72021024
+          ],
+          [
+            37.56455379,
+            55.72484434
+          ]
+        ],
+        "attributions": [
+          "#avangard",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.560445,
+          55.722526
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.560445,
+            55.722526
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "7",
+        "CompanyMetaData": {
+          "id": "1113900148",
+          "name": "Банк ВТБ, отделение",
+          "nameHighlight": [
+            [
+              0,
+              4
+            ]
+          ],
+          "shortName": "ВТБ",
+          "address": "площадь Победы, 1Б, Москва, Россия",
+          "postalCode": "121170",
+          "url": "http://www.vtb.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6002211",
+              "name": "Банк ВТБ, отделения",
+              "seoname": "bank_vtb_otdelenya"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 100-24-24",
+              "country": "7",
+              "prefix": "800",
+              "number": "1002424"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "09:00:00",
+                    "to": "20:00:00"
+                  }
+                ]
+              },
+              {
+                "Saturday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "17:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 9:00–20:00; сб 10:00–17:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 20:00",
+              "short_text": "До 20:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "http://www.facebook.com/vtbgroup"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/vtb"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/vtb_bm"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/vtbrussia/"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://www.instagram.com/bankvtb"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "snippet_show_subline",
+              "value": "exchange"
+            }
+          }
+        },
+        "description": "площадь Победы, 1Б, Москва, Россия",
+        "name": "Банк ВТБ, отделение",
+        "boundedBy": [
+          [
+            37.51606273,
+            55.73353814
+          ],
+          [
+            37.52427333,
+            55.73817066
+          ]
+        ],
+        "attributions": [
+          "#bankvtb_branches",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.520171,
+          55.735854
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.520171,
+            55.735854
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "8",
+        "CompanyMetaData": {
+          "id": "1120966001",
+          "name": "Сбербанк России",
+          "shortName": "Сбербанк",
+          "address": "ул. Пырьева, 5А, Москва, Россия",
+          "postalCode": "119285",
+          "url": "http://www.sberbank.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6003612",
+              "name": "Сбербанк России, отделения",
+              "seoname": "sberbank"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 555-55-50",
+              "country": "7",
+              "prefix": "800",
+              "number": "5555550"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 500-55-50",
+              "country": "7",
+              "prefix": "495",
+              "number": "5005550"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "08:30:00",
+                    "to": "19:30:00"
+                  }
+                ]
+              },
+              {
+                "Saturday": true,
+                "Intervals": [
+                  {
+                    "from": "09:00:00",
+                    "to": "17:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 8:30–19:30; сб 9:00–17:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 19:30",
+              "short_text": "До 19:30"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "debit_cards",
+              "type": "bool",
+              "name": "дебетовые карты",
+              "value": true
+            },
+            {
+              "id": "loans_private_individuals",
+              "type": "enum",
+              "name": "кредитование частных лиц",
+              "values": [
+                {
+                  "id": "consumer_credit",
+                  "value": "потребительский кредит"
+                }
+              ]
+            },
+            {
+              "id": "accepts_card_mir",
+              "type": "bool",
+              "name": "обслуживает карту Мир",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "rent_safe",
+              "type": "bool",
+              "name": "аренда сейфовых ячеек",
+              "value": false
+            },
+            {
+              "id": "for_disabled_people",
+              "type": "enum",
+              "name": "для лиц с ограниченными физическими возможностями",
+              "values": [
+                {
+                  "id": "people_visual_impairment",
+                  "value": "для людей с нарушением зрения"
+                }
+              ]
+            },
+            {
+              "id": "mutual_funds",
+              "type": "bool",
+              "name": "ПИФы",
+              "value": false
+            },
+            {
+              "id": "self_service_area_around_the_clock",
+              "type": "bool",
+              "name": "зона 24/7",
+              "value": false
+            },
+            {
+              "id": "accessibility_for_people_with_limited_mobility",
+              "type": "bool",
+              "name": "доступность для маломобильных групп населения",
+              "value": true
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": false
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": false
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "https://twitter.com/sberbank"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/sberbank"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/sberbank"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://www.instagram.com/sberbank/"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "snippet_show_subline",
+              "value": "exchange"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "nyak",
+              "id": "1541632476"
+            }
+          ]
+        },
+        "description": "ул. Пырьева, 5А, Москва, Россия",
+        "name": "Сбербанк России",
+        "boundedBy": [
+          [
+            37.52250365,
+            55.72339941
+          ],
+          [
+            37.53071426,
+            55.72803314
+          ]
+        ],
+        "attributions": [
+          "#foursquare",
+          "#sberbank",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.526606,
+          55.725718
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.526606,
+            55.725718
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "9",
+        "CompanyMetaData": {
+          "id": "1033911686",
+          "name": "Московский Кредитный банк",
+          "nameHighlight": [
+            [
+              21,
+              25
+            ]
+          ],
+          "shortName": "Кредитный банк",
+          "address": "Усачёва ул., 35, стр. 1, Москва, Россия",
+          "postalCode": "119048",
+          "url": "http://mkb.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6002206",
+              "name": "Московский Кредитный Банк, отделения",
+              "seoname": "moskovskiy_kreditnyy_bank"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 100-48-88",
+              "country": "7",
+              "prefix": "800",
+              "number": "1004888"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 777-48-88",
+              "country": "7",
+              "prefix": "495",
+              "number": "7774888"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 564-88-04",
+              "country": "7",
+              "prefix": "495",
+              "number": "5648804"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Everyday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "21:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "ежедневно, 10:00–21:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 21:00",
+              "short_text": "До 21:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "remote_service",
+              "type": "enum",
+              "name": "дистанц. обслуживание",
+              "values": [
+                {
+                  "id": "by_internet",
+                  "value": "интернет"
+                }
+              ]
+            },
+            {
+              "id": "debit_cards",
+              "type": "bool",
+              "name": "дебетовые карты",
+              "value": true
+            },
+            {
+              "id": "loans_private_individuals",
+              "type": "enum",
+              "name": "кредитование частных лиц",
+              "values": [
+                {
+                  "id": "mortgage",
+                  "value": "ипотека"
+                },
+                {
+                  "id": "consumer_credit",
+                  "value": "потребительский кредит"
+                }
+              ]
+            },
+            {
+              "id": "factoring",
+              "type": "bool",
+              "name": "факторинг",
+              "value": true
+            },
+            {
+              "id": "currency_exchange",
+              "type": "bool",
+              "name": "обмен валюты",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "business_lending",
+              "type": "bool",
+              "name": "кредитование бизнеса",
+              "value": true
+            },
+            {
+              "id": "distance_services_corporate_web",
+              "type": "bool",
+              "name": "дистанционное обслуживание юридических лиц через веб-интерфейс",
+              "value": true
+            },
+            {
+              "id": "issued_bank_cards",
+              "type": "enum",
+              "name": "выпускаемые банковские карты",
+              "values": [
+                {
+                  "id": "visa_international",
+                  "value": "Visa International"
+                },
+                {
+                  "id": "eurocard_mastercard",
+                  "value": "Eurocard/Mastercard"
+                }
+              ]
+            },
+            {
+              "id": "distance_services_corporate_clients_software",
+              "type": "bool",
+              "name": "дистанционное обслуживание юридических лиц с установленным ПО/без веб-интерфейса",
+              "value": true
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": true
+            },
+            {
+              "id": "money_transfers",
+              "type": "enum",
+              "name": "денежные переводы",
+              "values": [
+                {
+                  "id": "western_union",
+                  "value": "Western Union"
+                },
+                {
+                  "id": "unistream",
+                  "value": "Юнистрим"
+                }
+              ]
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "http://www.facebook.com/mkb.ru"
+            },
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "https://twitter.com/bankmkb"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/bankmkb"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://www.instagram.com/bankmkb/"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "snippet_show_subline",
+              "value": "exchange"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "parent_org",
+              "id": "1223805997"
+            },
+            {
+              "scope": "nyak",
+              "id": "1747594485"
+            }
+          ]
+        },
+        "description": "Усачёва ул., 35, стр. 1, Москва, Россия",
+        "name": "Московский Кредитный банк",
+        "boundedBy": [
+          [
+            37.55652285,
+            55.72013925
+          ],
+          [
+            37.56473346,
+            55.72477337
+          ]
+        ],
+        "attributions": [
+          "#mkb",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.560632,
+          55.722456
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.560632,
+            55.722456
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "10",
+        "CompanyMetaData": {
+          "id": "1025601026",
+          "name": "УРАЛСИБ банк Дополнительный офис Парк Победы",
+          "nameHighlight": [
+            [
+              8,
+              12
+            ]
+          ],
+          "shortName": "УРАЛСИБ",
+          "address": "площадь Победы, 2, корп. 1, Москва, Россия",
+          "postalCode": "121170",
+          "url": "https://www.uralsib.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            },
+            {
+              "class": "currency exchange",
+              "name": "Обмен валюты",
+              "Tags": {
+                "tag": "plural_name:Обмен валюты"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6002405",
+              "name": "УРАЛСИБ Банк, отделения",
+              "seoname": "uralsib_bank_otdeleniya"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 723-77-77",
+              "country": "7",
+              "prefix": "495",
+              "number": "7237777"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 723-77-00",
+              "country": "7",
+              "prefix": "495",
+              "number": "7237700"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "09:00:00",
+                    "to": "19:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 9:00–19:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 19:00",
+              "short_text": "До 19:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "remote_service",
+              "type": "enum",
+              "name": "дистанц. обслуживание",
+              "values": [
+                {
+                  "id": "by_internet",
+                  "value": "интернет"
+                }
+              ]
+            },
+            {
+              "id": "debit_cards",
+              "type": "bool",
+              "name": "дебетовые карты",
+              "value": true
+            },
+            {
+              "id": "additional_features",
+              "type": "enum",
+              "name": "дополнительные возможности",
+              "values": [
+                {
+                  "id": "payments_to_charities",
+                  "value": "платежи в благотворительные фонды"
+                },
+                {
+                  "id": "payment_of_commercial_tv",
+                  "value": "оплата коммерческого (спутникового) телевидения"
+                },
+                {
+                  "id": "payment_of_fines_stsi",
+                  "value": "оплата штрафов ГИБДД"
+                },
+                {
+                  "id": "payment_for_education",
+                  "value": "оплата за обучение"
+                },
+                {
+                  "id": "payment_security_system",
+                  "value": "оплата услуг охранной системы"
+                },
+                {
+                  "id": "payment_for_communal_services",
+                  "value": "оплата коммунальных платежей"
+                },
+                {
+                  "id": "payment_of_cellular_communication",
+                  "value": "оплата услуг сотовой связи"
+                },
+                {
+                  "id": "pay_for_internet_access",
+                  "value": "оплата доступа в интернет"
+                },
+                {
+                  "id": "payment_for_phone",
+                  "value": "оплата услуг местной телефонной связи"
+                },
+                {
+                  "id": "payment_of_ip_telephony",
+                  "value": "оплата услуг IP-телефонии"
+                }
+              ]
+            },
+            {
+              "id": "loans_private_individuals",
+              "type": "enum",
+              "name": "кредитование частных лиц",
+              "values": [
+                {
+                  "id": "target_credit",
+                  "value": "целевой кредит"
+                },
+                {
+                  "id": "mortgage",
+                  "value": "ипотека"
+                },
+                {
+                  "id": "autocredit",
+                  "value": "автокредит"
+                },
+                {
+                  "id": "consumer_credit",
+                  "value": "потребительский кредит"
+                }
+              ]
+            },
+            {
+              "id": "currency_exchange",
+              "type": "bool",
+              "name": "обмен валюты",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "currency_deposit",
+              "type": "enum",
+              "name": "валюта вклада",
+              "values": [
+                {
+                  "id": "deposit_eur",
+                  "value": "евро"
+                },
+                {
+                  "id": "deposit_rur",
+                  "value": "российский рубль"
+                },
+                {
+                  "id": "deposit_usd",
+                  "value": "доллары США"
+                }
+              ]
+            },
+            {
+              "id": "issued_bank_cards",
+              "type": "enum",
+              "name": "выпускаемые банковские карты",
+              "values": [
+                {
+                  "id": "visa_international",
+                  "value": "Visa International"
+                },
+                {
+                  "id": "eurocard_mastercard",
+                  "value": "Eurocard/Mastercard"
+                },
+                {
+                  "id": "americanexpress",
+                  "value": "American Express"
+                }
+              ]
+            },
+            {
+              "id": "money_transfers",
+              "type": "enum",
+              "name": "денежные переводы",
+              "values": [
+                {
+                  "id": "western_union",
+                  "value": "Western Union"
+                },
+                {
+                  "id": "unistream",
+                  "value": "Юнистрим"
+                },
+                {
+                  "id": "contact",
+                  "value": "Contact"
+                },
+                {
+                  "id": "money_gram",
+                  "value": "MoneyGram"
+                },
+                {
+                  "id": "korona_net",
+                  "value": "Золотая Корона"
+                },
+                {
+                  "id": "anelik",
+                  "value": "Anelik"
+                }
+              ]
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/bankuralsib"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/bankuralsib"
+            },
+            {
+              "type": "attribution",
+              "aref": "#uralsib",
+              "href": "https://uralsib.ru/bank/offices/office.wbp?id=512"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "has_verified_owner",
+              "value": "1"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "nyak",
+              "id": "1541641883"
+            }
+          ]
+        },
+        "description": "площадь Победы, 2, корп. 1, Москва, Россия",
+        "name": "УРАЛСИБ банк Дополнительный офис Парк Победы",
+        "boundedBy": [
+          [
+            37.51713173,
+            55.73530708
+          ],
+          [
+            37.52534233,
+            55.73993938
+          ]
+        ],
+        "attributions": [
+          "#uralsib",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.521237,
+          55.737622
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.521237,
+            55.737622
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "11",
+        "CompanyMetaData": {
+          "id": "1330783468",
+          "name": "Альфа-Банк",
+          "nameHighlight": [
+            [
+              6,
+              10
+            ]
+          ],
+          "address": "Большая Дорогомиловская ул., 1, Москва, Россия",
+          "postalCode": "121059",
+          "url": "https://alfabank.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            },
+            {
+              "name": "Расчётно-кассовый центр",
+              "Tags": {
+                "tag": "plural_name:Расчетно-кассовые центры"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6001993",
+              "name": "Альфа-Банк, отделения",
+              "seoname": "alfa_bank"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 100-88-66",
+              "country": "7",
+              "prefix": "800",
+              "number": "1008866"
+            },
+            {
+              "type": "phone",
+              "formatted": "8 (800) 200-00-00",
+              "country": "7",
+              "prefix": "800",
+              "number": "2000000"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 788-88-78",
+              "country": "7",
+              "prefix": "495",
+              "number": "7888878",
+              "info": "для физических лиц"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 786-88-66",
+              "country": "7",
+              "prefix": "495",
+              "number": "7868866"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 755-58-58",
+              "country": "7",
+              "prefix": "495",
+              "number": "7555858",
+              "info": "для юридических лиц"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "09:00:00",
+                    "to": "21:00:00"
+                  }
+                ]
+              },
+              {
+                "Saturday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "19:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 9:00–21:00; сб 10:00–19:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 21:00",
+              "short_text": "До 21:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            },
+            {
+              "id": "loans_private_individuals",
+              "type": "enum",
+              "name": "кредитование частных лиц",
+              "values": [
+                {
+                  "id": "mortgage",
+                  "value": "ипотека"
+                }
+              ]
+            },
+            {
+              "id": "office_type",
+              "type": "enum",
+              "name": "вид отделения",
+              "values": [
+                {
+                  "id": "office_vip",
+                  "value": "залы для VIP-клиентов"
+                },
+                {
+                  "id": "office_sme",
+                  "value": "для предпринимателей, среднего и малого бизнеса"
+                },
+                {
+                  "id": "office_retail",
+                  "value": "для частных лиц"
+                }
+              ]
+            },
+            {
+              "id": "accepts_card_mir",
+              "type": "bool",
+              "name": "обслуживает карту Мир",
+              "value": true
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": false
+            },
+            {
+              "id": "business_lending",
+              "type": "bool",
+              "name": "кредитование бизнеса",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#ok",
+              "href": "https://ok.ru/alfabank"
+            },
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "https://twitter.com/alfabank"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/alfabank"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/alfabank"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://www.instagram.com/alfabankru/"
+            },
+            {
+              "type": "social",
+              "aref": "#youtube",
+              "href": "https://www.youtube.com/user/alfabankru"
+            },
+            {
+              "type": "attribution",
+              "aref": "#alfa-bank",
+              "href": "https://alfabank.ru/office/moscow/dorogomilovski/"
+            },
+            {
+              "type": "attribution",
+              "aref": "#alfa-bank",
+              "href": "https://alfabank.ru/office/moscow/kievsky/"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "has_verified_owner",
+              "value": "1"
+            }
+          }
+        },
+        "description": "Большая Дорогомиловская ул., 1, Москва, Россия",
+        "name": "Альфа-Банк",
+        "boundedBy": [
+          [
+            37.55878661,
+            55.74332457
+          ],
+          [
+            37.56699721,
+            55.74795592
+          ]
+        ],
+        "attributions": [
+          "#alfa-bank",
+          "#foursquare",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.562889,
+          55.745639
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.562889,
+            55.745639
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "12",
+        "CompanyMetaData": {
+          "id": "1571873837",
+          "name": "Газпромбанк, дополнительный офис 099/1037",
+          "shortName": "Газпромбанк",
+          "address": "Кутузовский просп., 43, Москва, Россия",
+          "postalCode": "121170",
+          "url": "http://www.gazprombank.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6001947",
+              "name": "Газпромбанк, отделения",
+              "seoname": "gazprombank"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 100-07-01",
+              "country": "7",
+              "prefix": "800",
+              "number": "1000701",
+              "info": "Телефон единой справочной службы"
+            },
+            {
+              "type": "phone",
+              "formatted": "8 (800) 100-00-89",
+              "country": "7",
+              "prefix": "800",
+              "number": "1000089",
+              "info": "Круглосуточная служба поддержки держателей банковских карт"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "08:30:00",
+                    "to": "20:00:00"
+                  }
+                ]
+              },
+              {
+                "Saturday": true,
+                "Intervals": [
+                  {
+                    "from": "09:30:00",
+                    "to": "17:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 8:30–20:00; сб 9:30–17:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 20:00",
+              "short_text": "До 20:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "loans_private_individuals",
+              "type": "enum",
+              "name": "кредитование частных лиц",
+              "values": [
+                {
+                  "id": "mortgage",
+                  "value": "ипотека"
+                },
+                {
+                  "id": "autocredit",
+                  "value": "автокредит"
+                },
+                {
+                  "id": "consumer_credit",
+                  "value": "потребительский кредит"
+                }
+              ]
+            },
+            {
+              "id": "accepts_card_mir",
+              "type": "bool",
+              "name": "обслуживает карту Мир",
+              "value": true
+            },
+            {
+              "id": "currency_exchange",
+              "type": "bool",
+              "name": "обмен валюты",
+              "value": true
+            },
+            {
+              "id": "gazprombank_services",
+              "type": "enum",
+              "name": "услуги Газпромбанка",
+              "values": [
+                {
+                  "id": "sogaz_insurance_policy",
+                  "value": "полис Согаз для держателей банковских карт"
+                }
+              ]
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "currency_deposit",
+              "type": "enum",
+              "name": "валюта вклада",
+              "values": [
+                {
+                  "id": "deposit_eur",
+                  "value": "евро"
+                },
+                {
+                  "id": "deposit_rur",
+                  "value": "российский рубль"
+                },
+                {
+                  "id": "deposit_usd",
+                  "value": "доллары США"
+                }
+              ]
+            },
+            {
+              "id": "rent_safe",
+              "type": "bool",
+              "name": "аренда сейфовых ячеек",
+              "value": true
+            },
+            {
+              "id": "issued_bank_cards",
+              "type": "enum",
+              "name": "выпускаемые банковские карты",
+              "values": [
+                {
+                  "id": "visa_international",
+                  "value": "Visa International"
+                },
+                {
+                  "id": "eurocard_mastercard",
+                  "value": "Eurocard/Mastercard"
+                },
+                {
+                  "id": "jcbinternational",
+                  "value": "JCB International"
+                },
+                {
+                  "id": "union_pay",
+                  "value": "Union Pay"
+                }
+              ]
+            },
+            {
+              "id": "mutual_funds",
+              "type": "bool",
+              "name": "ПИФы",
+              "value": true
+            },
+            {
+              "id": "self_service_area_around_the_clock",
+              "type": "bool",
+              "name": "зона 24/7",
+              "value": true
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients"
+            ]
+          },
+          "Properties": {
+            "Property": {
+              "key": "snippet_show_subline",
+              "value": "exchange"
+            }
+          }
+        },
+        "description": "Кутузовский просп., 43, Москва, Россия",
+        "name": "Газпромбанк, дополнительный офис 099/1037",
+        "boundedBy": [
+          [
+            37.52449791,
+            55.73580378
+          ],
+          [
+            37.53270852,
+            55.74043603
+          ]
+        ],
+        "attributions": [
+          "#foursquare",
+          "#gazprombank",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.528606,
+          55.738121
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.528606,
+            55.738121
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
+        "CompanyMetaData": {
+          "id": "1086169796",
+          "name": "Сбербанк России",
+          "shortName": "Сбербанк",
+          "address": "Кутузовский просп., 36А, Москва, Россия",
+          "postalCode": "121170",
+          "url": "http://www.sberbank.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6003612",
+              "name": "Сбербанк России, отделения",
+              "seoname": "sberbank"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 555-55-50",
+              "country": "7",
+              "prefix": "800",
+              "number": "5555550",
+              "info": "единая справочная"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 500-55-50",
+              "country": "7",
+              "prefix": "495",
+              "number": "5005550"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (499) 249-22-98",
+              "country": "7",
+              "prefix": "499",
+              "number": "2492298"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 691-38-96",
+              "country": "7",
+              "prefix": "495",
+              "number": "6913896"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 753-83-81",
+              "country": "7",
+              "prefix": "495",
+              "number": "7538381"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (499) 120-63-12",
+              "country": "7",
+              "prefix": "499",
+              "number": "1206312"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 676-37-76",
+              "country": "7",
+              "prefix": "495",
+              "number": "6763776"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (499) 780-23-15",
+              "country": "7",
+              "prefix": "499",
+              "number": "7802315"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "08:30:00",
+                    "to": "19:30:00"
+                  }
+                ]
+              },
+              {
+                "Saturday": true,
+                "Intervals": [
+                  {
+                    "from": "09:30:00",
+                    "to": "17:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 8:30–19:30; сб 9:30–17:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 19:30",
+              "short_text": "До 19:30"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "debit_cards",
+              "type": "bool",
+              "name": "дебетовые карты",
+              "value": true
+            },
+            {
+              "id": "loans_private_individuals",
+              "type": "enum",
+              "name": "кредитование частных лиц",
+              "values": [
+                {
+                  "id": "consumer_credit",
+                  "value": "потребительский кредит"
+                }
+              ]
+            },
+            {
+              "id": "accepts_card_mir",
+              "type": "bool",
+              "name": "обслуживает карту Мир",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "rent_safe",
+              "type": "bool",
+              "name": "аренда сейфовых ячеек",
+              "value": true
+            },
+            {
+              "id": "for_disabled_people",
+              "type": "enum",
+              "name": "для лиц с ограниченными физическими возможностями",
+              "values": [
+                {
+                  "id": "people_visual_impairment",
+                  "value": "для людей с нарушением зрения"
+                }
+              ]
+            },
+            {
+              "id": "mutual_funds",
+              "type": "bool",
+              "name": "ПИФы",
+              "value": true
+            },
+            {
+              "id": "self_service_area_around_the_clock",
+              "type": "bool",
+              "name": "зона 24/7",
+              "value": true
+            },
+            {
+              "id": "accessibility_for_people_with_limited_mobility",
+              "type": "bool",
+              "name": "доступность для маломобильных групп населения",
+              "value": false
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": false
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": false
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "https://twitter.com/sberbank/"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/sberbank"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/sberbank"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://www.instagram.com/sberbank/"
+            },
+            {
+              "type": "social",
+              "aref": "#linkedin",
+              "href": "https://www.linkedin.com/company/sberbank"
+            },
+            {
+              "type": "social",
+              "aref": "#youtube",
+              "href": "https://www.youtube.com/user/Sberbank"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "snippet_show_subline",
+              "value": "exchange"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "nyak",
+              "id": "1541632587"
+            }
+          ]
+        },
+        "description": "Кутузовский просп., 36А, Москва, Россия",
+        "name": "Сбербанк России",
+        "boundedBy": [
+          [
+            37.52155144,
+            55.73615857
+          ],
+          [
+            37.52976204,
+            55.74079078
+          ]
+        ],
+        "attributions": [
+          "#foursquare",
+          "#sberbank",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.525655,
+          55.738477
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.525655,
+            55.738477
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "14",
+        "CompanyMetaData": {
+          "id": "1614916274",
+          "name": "Банк ВТБ, отделение",
+          "nameHighlight": [
+            [
+              0,
+              4
+            ]
+          ],
+          "shortName": "ВТБ",
+          "address": "Пресненская наб., 12, Москва, Россия",
+          "postalCode": "123112",
+          "url": "http://www.vtb.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6002211",
+              "name": "Банк ВТБ, отделения",
+              "seoname": "bank_vtb_otdelenya"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 100-24-24",
+              "country": "7",
+              "prefix": "800",
+              "number": "1002424"
+            },
+            {
+              "type": "phone",
+              "formatted": "8 (800) 700-00-24",
+              "country": "7",
+              "prefix": "800",
+              "number": "7000024"
+            },
+            {
+              "type": "phone",
+              "formatted": "8 (800) 200-23-26",
+              "country": "7",
+              "prefix": "800",
+              "number": "2002326"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 782-80-59",
+              "country": "7",
+              "prefix": "495",
+              "number": "7828059"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 925-80-00",
+              "country": "7",
+              "prefix": "495",
+              "number": "9258000"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "20:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 10:00–20:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 20:00",
+              "short_text": "До 20:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": false
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": false
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/vtb"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/vtbrussia/"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://www.instagram.com/bankvtb"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "snippet_show_subline",
+              "value": "exchange"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "parent_org",
+              "id": "5187743663"
+            }
+          ]
+        },
+        "description": "Пресненская наб., 12, Москва, Россия",
+        "name": "Банк ВТБ, отделение",
+        "boundedBy": [
+          [
+            37.53333734,
+            55.74691214
+          ],
+          [
+            37.54154794,
+            55.75154307
+          ]
+        ],
+        "attributions": [
+          "#bankvtb_branches",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.537444,
+          55.749227
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.537444,
+            55.749227
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "CompanyMetaData": {
+          "id": "1104826896",
+          "name": "Абсолют Банк",
+          "nameHighlight": [
+            [
+              8,
+              12
+            ]
+          ],
+          "shortName": "Абсолют банк",
+          "address": "Кутузовский просп., 24соор1, Москва, Россия",
+          "postalCode": "121151",
+          "url": "https://absolutbank.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            },
+            {
+              "class": "currency exchange",
+              "name": "Обмен валюты",
+              "Tags": {
+                "tag": "plural_name:Обмен валюты"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6002253",
+              "name": "Абсолют Банк, отделения",
+              "seoname": "absolyut_bank_otdeleniya"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 200-20-05",
+              "country": "7",
+              "prefix": "800",
+              "number": "2002005"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 777-71-71",
+              "country": "7",
+              "prefix": "495",
+              "number": "7777171"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 935-00-52",
+              "country": "7",
+              "prefix": "495",
+              "number": "9350052"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "09:00:00",
+                    "to": "20:00:00"
+                  }
+                ]
+              },
+              {
+                "Saturday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "16:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 9:00–20:00; сб 10:00–16:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 20:00",
+              "short_text": "До 20:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "currency_exchange",
+              "type": "bool",
+              "name": "обмен валюты",
+              "value": true
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/absolutbankru"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/absolutbankru"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://www.instagram.com/absolut_bank"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "snippet_show_subline",
+              "value": "exchange"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "parent_org",
+              "id": "1048478970"
+            },
+            {
+              "scope": "nyak",
+              "id": "1541631553"
+            }
+          ]
+        },
+        "description": "Кутузовский просп., 24соор1, Москва, Россия",
+        "name": "Абсолют Банк",
+        "boundedBy": [
+          [
+            37.54159285,
+            55.74228574
+          ],
+          [
+            37.54980346,
+            55.74690708
+          ]
+        ],
+        "attributions": [
+          "#aqua_absolutbank",
+          "#foursquare",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.545694,
+          55.744599
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.545694,
+            55.744599
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "16",
+        "CompanyMetaData": {
+          "id": "1019571639",
+          "name": "УРАЛСИБ банк Дополнительный офис Кутузовское",
+          "nameHighlight": [
+            [
+              8,
+              12
+            ]
+          ],
+          "shortName": "УРАЛСИБ",
+          "address": "Кутузовский просп., 27, Москва, Россия",
+          "postalCode": "121165",
+          "url": "https://www.uralsib.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            },
+            {
+              "class": "currency exchange",
+              "name": "Обмен валюты",
+              "Tags": {
+                "tag": "plural_name:Обмен валюты"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6002405",
+              "name": "УРАЛСИБ Банк, отделения",
+              "seoname": "uralsib_bank_otdeleniya"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 723-77-77",
+              "country": "7",
+              "prefix": "495",
+              "number": "7237777"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 723-77-00",
+              "country": "7",
+              "prefix": "495",
+              "number": "7237700"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "09:00:00",
+                    "to": "20:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 9:00–20:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 20:00",
+              "short_text": "До 20:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "remote_service",
+              "type": "enum",
+              "name": "дистанц. обслуживание",
+              "values": [
+                {
+                  "id": "by_internet",
+                  "value": "интернет"
+                }
+              ]
+            },
+            {
+              "id": "debit_cards",
+              "type": "bool",
+              "name": "дебетовые карты",
+              "value": true
+            },
+            {
+              "id": "additional_features",
+              "type": "enum",
+              "name": "дополнительные возможности",
+              "values": [
+                {
+                  "id": "payments_to_charities",
+                  "value": "платежи в благотворительные фонды"
+                },
+                {
+                  "id": "payment_of_commercial_tv",
+                  "value": "оплата коммерческого (спутникового) телевидения"
+                },
+                {
+                  "id": "payment_of_fines_stsi",
+                  "value": "оплата штрафов ГИБДД"
+                },
+                {
+                  "id": "payment_for_education",
+                  "value": "оплата за обучение"
+                },
+                {
+                  "id": "payment_security_system",
+                  "value": "оплата услуг охранной системы"
+                },
+                {
+                  "id": "payment_for_communal_services",
+                  "value": "оплата коммунальных платежей"
+                },
+                {
+                  "id": "payment_of_cellular_communication",
+                  "value": "оплата услуг сотовой связи"
+                },
+                {
+                  "id": "pay_for_internet_access",
+                  "value": "оплата доступа в интернет"
+                },
+                {
+                  "id": "payment_for_phone",
+                  "value": "оплата услуг местной телефонной связи"
+                },
+                {
+                  "id": "payment_of_ip_telephony",
+                  "value": "оплата услуг IP-телефонии"
+                }
+              ]
+            },
+            {
+              "id": "loans_private_individuals",
+              "type": "enum",
+              "name": "кредитование частных лиц",
+              "values": [
+                {
+                  "id": "target_credit",
+                  "value": "целевой кредит"
+                },
+                {
+                  "id": "mortgage",
+                  "value": "ипотека"
+                },
+                {
+                  "id": "autocredit",
+                  "value": "автокредит"
+                },
+                {
+                  "id": "consumer_credit",
+                  "value": "потребительский кредит"
+                }
+              ]
+            },
+            {
+              "id": "currency_exchange",
+              "type": "bool",
+              "name": "обмен валюты",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "currency_deposit",
+              "type": "enum",
+              "name": "валюта вклада",
+              "values": [
+                {
+                  "id": "deposit_eur",
+                  "value": "евро"
+                },
+                {
+                  "id": "deposit_rur",
+                  "value": "российский рубль"
+                },
+                {
+                  "id": "deposit_usd",
+                  "value": "доллары США"
+                }
+              ]
+            },
+            {
+              "id": "issued_bank_cards",
+              "type": "enum",
+              "name": "выпускаемые банковские карты",
+              "values": [
+                {
+                  "id": "visa_international",
+                  "value": "Visa International"
+                },
+                {
+                  "id": "eurocard_mastercard",
+                  "value": "Eurocard/Mastercard"
+                },
+                {
+                  "id": "americanexpress",
+                  "value": "American Express"
+                }
+              ]
+            },
+            {
+              "id": "money_transfers",
+              "type": "enum",
+              "name": "денежные переводы",
+              "values": [
+                {
+                  "id": "western_union",
+                  "value": "Western Union"
+                },
+                {
+                  "id": "unistream",
+                  "value": "Юнистрим"
+                },
+                {
+                  "id": "contact",
+                  "value": "Contact"
+                },
+                {
+                  "id": "money_gram",
+                  "value": "MoneyGram"
+                },
+                {
+                  "id": "korona_net",
+                  "value": "Золотая Корона"
+                },
+                {
+                  "id": "anelik",
+                  "value": "Anelik"
+                }
+              ]
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "http://vk.com/bankuralsib"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "http://www.facebook.com/bankuralsib"
+            },
+            {
+              "type": "attribution",
+              "aref": "#uralsib",
+              "href": "https://uralsib.ru/bank/offices/office.wbp?id=503"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "has_verified_owner",
+              "value": "1"
+            }
+          }
+        },
+        "description": "Кутузовский просп., 27, Москва, Россия",
+        "name": "УРАЛСИБ банк Дополнительный офис Кутузовское",
+        "boundedBy": [
+          [
+            37.54150302,
+            55.74133809
+          ],
+          [
+            37.54971362,
+            55.74596968
+          ]
+        ],
+        "attributions": [
+          "#uralsib",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.545608,
+          55.743653
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.545608,
+            55.743653
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "17",
+        "CompanyMetaData": {
+          "id": "1060345617",
+          "name": "Росгосстрах банк",
+          "nameHighlight": [
+            [
+              12,
+              16
+            ]
+          ],
+          "shortName": "Росгосстрах",
+          "address": "Киевская ул., 7, Москва, Россия",
+          "postalCode": "121059",
+          "url": "http://rgsbank.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            },
+            {
+              "class": "money transfers",
+              "name": "Денежные переводы",
+              "Tags": {
+                "tag": "plural_name:Денежные переводы"
+              }
+            },
+            {
+              "class": "currency exchange",
+              "name": "Обмен валюты",
+              "Tags": {
+                "tag": "plural_name:Обмен валюты"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "335257964",
+              "name": "Росгосстрах Банк, отделения",
+              "seoname": "rosgosstrah_bank"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 700-40-40",
+              "country": "7",
+              "prefix": "800",
+              "number": "7004040"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 925-80-80",
+              "country": "7",
+              "prefix": "495",
+              "number": "9258080"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 925-80-68",
+              "country": "7",
+              "prefix": "495",
+              "number": "9258068"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 925-80-79",
+              "country": "7",
+              "prefix": "495",
+              "number": "9258079"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 921-20-13",
+              "country": "7",
+              "prefix": "495",
+              "number": "9212013"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 518-96-24",
+              "country": "7",
+              "prefix": "495",
+              "number": "5189624"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "09:00:00",
+                    "to": "20:00:00"
+                  }
+                ]
+              },
+              {
+                "Saturday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "18:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 9:00–20:00; сб 10:00–18:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 20:00",
+              "short_text": "До 20:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "remote_service",
+              "type": "enum",
+              "name": "дистанц. обслуживание",
+              "values": [
+                {
+                  "id": "by_internet",
+                  "value": "интернет"
+                },
+                {
+                  "id": "by_sms",
+                  "value": "SMS"
+                }
+              ]
+            },
+            {
+              "id": "debit_cards",
+              "type": "bool",
+              "name": "дебетовые карты",
+              "value": true
+            },
+            {
+              "id": "additional_features",
+              "type": "enum",
+              "name": "дополнительные возможности",
+              "values": [
+                {
+                  "id": "payment_of_tickets",
+                  "value": "оплата авиа- и ж/д билетов"
+                },
+                {
+                  "id": "payment_of_fines_stsi",
+                  "value": "оплата штрафов ГИБДД"
+                },
+                {
+                  "id": "payment_yamoney",
+                  "value": "пополнение счета Яндекс.Денег"
+                },
+                {
+                  "id": "payment_for_communal_services",
+                  "value": "оплата коммунальных платежей"
+                },
+                {
+                  "id": "payment_of_cellular_communication",
+                  "value": "оплата услуг сотовой связи"
+                },
+                {
+                  "id": "pay_for_internet_access",
+                  "value": "оплата доступа в интернет"
+                },
+                {
+                  "id": "payment_for_phone",
+                  "value": "оплата услуг местной телефонной связи"
+                }
+              ]
+            },
+            {
+              "id": "accepts_card_mir",
+              "type": "bool",
+              "name": "обслуживает карту Мир",
+              "value": true
+            },
+            {
+              "id": "currency_exchange",
+              "type": "bool",
+              "name": "обмен валюты",
+              "value": true
+            },
+            {
+              "id": "currency_deposit",
+              "type": "enum",
+              "name": "валюта вклада",
+              "values": [
+                {
+                  "id": "deposit_eur",
+                  "value": "евро"
+                },
+                {
+                  "id": "deposit_rur",
+                  "value": "российский рубль"
+                },
+                {
+                  "id": "deposit_usd",
+                  "value": "доллары США"
+                }
+              ]
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "rent_safe",
+              "type": "bool",
+              "name": "аренда сейфовых ячеек",
+              "value": true
+            },
+            {
+              "id": "issued_bank_cards",
+              "type": "enum",
+              "name": "выпускаемые банковские карты",
+              "values": [
+                {
+                  "id": "visa_international",
+                  "value": "Visa International"
+                },
+                {
+                  "id": "eurocard_mastercard",
+                  "value": "Eurocard/Mastercard"
+                }
+              ]
+            },
+            {
+              "id": "money_transfers",
+              "type": "enum",
+              "name": "денежные переводы",
+              "values": [
+                {
+                  "id": "western_union",
+                  "value": "Western Union"
+                },
+                {
+                  "id": "money_gram",
+                  "value": "MoneyGram"
+                },
+                {
+                  "id": "korona_net",
+                  "value": "Золотая Корона"
+                }
+              ]
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": true
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            },
+            {
+              "id": "payment_for_services",
+              "type": "bool",
+              "name": "сервис оплаты услуг",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "https://twitter.com/rgs_bank"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/rgsbank"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/rgsbank"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "has_verified_owner",
+              "value": "1"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "nyak",
+              "id": "1541626125"
+            }
+          ]
+        },
+        "description": "Киевская ул., 7, Москва, Россия",
+        "name": "Росгосстрах банк",
+        "boundedBy": [
+          [
+            37.55654082,
+            55.74015223
+          ],
+          [
+            37.56475142,
+            55.74478396
+          ]
+        ],
+        "attributions": [
+          "#rgsbank",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.56065,
+          55.742468
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.56065,
+            55.742468
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "18",
+        "CompanyMetaData": {
+          "id": "1305346067",
+          "name": "Банк Акцепт, отделение",
+          "nameHighlight": [
+            [
+              0,
+              4
+            ]
+          ],
+          "shortName": "Акцепт",
+          "address": "площадь Победы, 2, корп. 2, Москва, Россия",
+          "postalCode": "121170",
+          "url": "http://www.akcept.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "2575182592",
+              "name": "Банк Акцепт, отделения",
+              "seoname": "bank_akcept_otdelenija"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 725-39-67",
+              "country": "7",
+              "prefix": "495",
+              "number": "7253967"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 725-39-65",
+              "country": "7",
+              "prefix": "495",
+              "number": "7253965"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (499) 148-18-39",
+              "country": "7",
+              "prefix": "499",
+              "number": "1481839"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (499) 148-62-56",
+              "country": "7",
+              "prefix": "499",
+              "number": "1486256"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "09:30:00",
+                    "to": "19:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 9:30–19:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 19:00",
+              "short_text": "До 19:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "debit_cards",
+              "type": "bool",
+              "name": "дебетовые карты",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "business_lending",
+              "type": "bool",
+              "name": "кредитование бизнеса",
+              "value": true
+            },
+            {
+              "id": "rent_safe",
+              "type": "bool",
+              "name": "аренда сейфовых ячеек",
+              "value": true
+            },
+            {
+              "id": "distance_services_corporate_web",
+              "type": "bool",
+              "name": "дистанционное обслуживание юридических лиц через веб-интерфейс",
+              "value": true
+            },
+            {
+              "id": "distance_services_corporate_clients_software",
+              "type": "bool",
+              "name": "дистанционное обслуживание юридических лиц с установленным ПО/без веб-интерфейса",
+              "value": false
+            },
+            {
+              "id": "mutual_funds",
+              "type": "bool",
+              "name": "ПИФы",
+              "value": false
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": true
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Properties": {
+            "Property": {
+              "key": "snippet_show_subline",
+              "value": "exchange"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "nyak",
+              "id": "1541629060"
+            },
+            {
+              "scope": "yandex-direct",
+              "id": "23598044"
+            }
+          ]
+        },
+        "description": "площадь Победы, 2, корп. 2, Москва, Россия",
+        "name": "Банк Акцепт, отделение",
+        "boundedBy": [
+          [
+            37.51272998,
+            55.73490667
+          ],
+          [
+            37.52094058,
+            55.73953902
+          ]
+        ],
+        "attributions": [
+          "#aqua_akcept",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.516832,
+          55.737224
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.516832,
+            55.737224
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "19",
+        "CompanyMetaData": {
+          "id": "1378976436",
+          "name": "Альфа-Банк",
+          "nameHighlight": [
+            [
+              6,
+              10
+            ]
+          ],
+          "address": "Багратионовский пр., 3, Москва, Россия",
+          "postalCode": "121087",
+          "url": "https://alfabank.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6001993",
+              "name": "Альфа-Банк, отделения",
+              "seoname": "alfa_bank"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 200-00-00",
+              "country": "7",
+              "prefix": "800",
+              "number": "2000000"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 788-88-78",
+              "country": "7",
+              "prefix": "495",
+              "number": "7888878",
+              "info": "для физических лиц"
+            },
+            {
+              "type": "phone",
+              "formatted": "+7 (495) 755-58-58",
+              "country": "7",
+              "prefix": "495",
+              "number": "7555858",
+              "info": "для юридических лиц"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "09:00:00",
+                    "to": "21:00:00"
+                  }
+                ]
+              },
+              {
+                "Saturday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "19:00:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 9:00–21:00; сб 10:00–19:00",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 21:00",
+              "short_text": "До 21:00"
+            }
+          },
+          "Geo": {
+            "precision": "exact"
+          },
+          "Features": [
+            {
+              "id": "debit_cards",
+              "type": "bool",
+              "name": "дебетовые карты",
+              "value": true
+            },
+            {
+              "id": "loans_private_individuals",
+              "type": "enum",
+              "name": "кредитование частных лиц",
+              "values": [
+                {
+                  "id": "mortgage",
+                  "value": "ипотека"
+                },
+                {
+                  "id": "autocredit",
+                  "value": "автокредит"
+                }
+              ]
+            },
+            {
+              "id": "accepts_card_mir",
+              "type": "bool",
+              "name": "обслуживает карту Мир",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "business_lending",
+              "type": "bool",
+              "name": "кредитование бизнеса",
+              "value": true
+            },
+            {
+              "id": "office_type",
+              "type": "enum",
+              "name": "вид отделения",
+              "values": [
+                {
+                  "id": "office_sme",
+                  "value": "для предпринимателей, среднего и малого бизнеса"
+                },
+                {
+                  "id": "office_retail",
+                  "value": "для частных лиц"
+                }
+              ]
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": false
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": false
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#ok",
+              "href": "https://ok.ru/alfabank"
+            },
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "https://twitter.com/alfabank"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/alfabank"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/alfabank"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://www.instagram.com/alfabankru/"
+            },
+            {
+              "type": "social",
+              "aref": "#youtube",
+              "href": "https://www.youtube.com/user/alfabankru"
+            },
+            {
+              "type": "attribution",
+              "aref": "#alfa-bank",
+              "href": "https://alfabank.ru/office/moscow/fily/"
+            },
+            {
+              "type": "attribution",
+              "aref": "#alfa-bank",
+              "href": "https://alfabank.ru/office/moscow/tuchkovskaya/"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "has_verified_owner",
+              "value": "1"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "nyak",
+              "id": "1541667100"
+            }
+          ]
+        },
+        "description": "Багратионовский пр., 3, Москва, Россия",
+        "name": "Альфа-Банк",
+        "boundedBy": [
+          [
+            37.50566024,
+            55.74255432
+          ],
+          [
+            37.51387084,
+            55.74718576
+          ]
+        ],
+        "attributions": [
+          "#alfa-bank",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.509767,
+          55.74487
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.509767,
+            55.74487
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "20",
+        "CompanyMetaData": {
+          "id": "1001726935",
+          "name": "Промсвязьбанк",
+          "shortName": "Промсвязьбанк",
+          "address": "Кутузовский просп., 30/32, Москва, Россия",
+          "postalCode": "121165",
+          "url": "http://www.psbank.ru/",
+          "Categories": [
+            {
+              "class": "banks",
+              "name": "Банк",
+              "nameHighlight": [
+                [
+                  0,
+                  4
+                ]
+              ],
+              "Tags": {
+                "tag": "plural_name:Банки"
+              }
+            }
+          ],
+          "Chains": [
+            {
+              "id": "6002157",
+              "name": "Промсвязьбанк, отделения",
+              "seoname": "promsvyazbank"
+            }
+          ],
+          "Phones": [
+            {
+              "type": "phone",
+              "formatted": "8 (800) 333-03-03",
+              "country": "7",
+              "prefix": "800",
+              "number": "3330303",
+              "info": "Для физических лиц"
+            },
+            {
+              "type": "phone",
+              "formatted": "8 (800) 333-25-50",
+              "country": "7",
+              "prefix": "800",
+              "number": "3332550",
+              "info": "Для юридических лиц"
+            },
+            {
+              "type": "phone",
+              "formatted": "8 (800) 100-19-88",
+              "country": "7",
+              "prefix": "800",
+              "number": "1001988"
+            }
+          ],
+          "Hours": {
+            "Availabilities": [
+              {
+                "Monday": true,
+                "Tuesday": true,
+                "Wednesday": true,
+                "Thursday": true,
+                "Friday": true,
+                "Intervals": [
+                  {
+                    "from": "09:30:00",
+                    "to": "20:30:00"
+                  }
+                ]
+              },
+              {
+                "Saturday": true,
+                "Intervals": [
+                  {
+                    "from": "10:00:00",
+                    "to": "16:30:00"
+                  }
+                ]
+              }
+            ],
+            "text": "пн-пт 9:30–20:30; сб 10:00–16:30",
+            "tzOffset": 10800,
+            "State": {
+              "is_open_now": "1",
+              "text": "Открыто до 20:30",
+              "short_text": "До 20:30"
+            }
+          },
+          "Geo": {
+            "precision": "number"
+          },
+          "Features": [
+            {
+              "id": "remote_service",
+              "type": "enum",
+              "name": "дистанц. обслуживание",
+              "values": [
+                {
+                  "id": "by_internet",
+                  "value": "интернет"
+                },
+                {
+                  "id": "by_phone",
+                  "value": "телефон"
+                }
+              ]
+            },
+            {
+              "id": "loans_private_individuals",
+              "type": "enum",
+              "name": "кредитование частных лиц",
+              "values": [
+                {
+                  "id": "consumer_credit",
+                  "value": "потребительский кредит"
+                }
+              ]
+            },
+            {
+              "id": "factoring",
+              "type": "bool",
+              "name": "факторинг",
+              "value": true
+            },
+            {
+              "id": "brokerage_service",
+              "type": "bool",
+              "name": "брокерское обслуживание",
+              "value": true
+            },
+            {
+              "id": "currency_exchange",
+              "type": "bool",
+              "name": "обмен валюты",
+              "value": true
+            },
+            {
+              "id": "depository_service",
+              "type": "bool",
+              "name": "депозитарное обслуживание",
+              "value": true
+            },
+            {
+              "id": "services_for_individuals",
+              "type": "bool",
+              "name": "обслуживание физических лиц",
+              "value": true
+            },
+            {
+              "id": "currency_deposit",
+              "type": "enum",
+              "name": "валюта вклада",
+              "values": [
+                {
+                  "id": "deposit_eur",
+                  "value": "евро"
+                },
+                {
+                  "id": "deposit_rur",
+                  "value": "российский рубль"
+                },
+                {
+                  "id": "deposit_usd",
+                  "value": "доллары США"
+                }
+              ]
+            },
+            {
+              "id": "business_lending",
+              "type": "bool",
+              "name": "кредитование бизнеса",
+              "value": true
+            },
+            {
+              "id": "rent_safe",
+              "type": "bool",
+              "name": "аренда сейфовых ячеек",
+              "value": true
+            },
+            {
+              "id": "distance_services_corporate_web",
+              "type": "bool",
+              "name": "дистанционное обслуживание юридических лиц через веб-интерфейс",
+              "value": true
+            },
+            {
+              "id": "issued_bank_cards",
+              "type": "enum",
+              "name": "выпускаемые банковские карты",
+              "values": [
+                {
+                  "id": "visa_international",
+                  "value": "Visa International"
+                },
+                {
+                  "id": "eurocard_mastercard",
+                  "value": "Eurocard/Mastercard"
+                }
+              ]
+            },
+            {
+              "id": "office_type",
+              "type": "enum",
+              "name": "вид отделения",
+              "values": [
+                {
+                  "id": "office_vip",
+                  "value": "залы для VIP-клиентов"
+                },
+                {
+                  "id": "office_sme",
+                  "value": "для предпринимателей, среднего и малого бизнеса"
+                },
+                {
+                  "id": "office_retail",
+                  "value": "для частных лиц"
+                }
+              ]
+            },
+            {
+              "id": "accessibility_for_people_with_limited_mobility",
+              "type": "bool",
+              "name": "доступность для маломобильных групп населения",
+              "value": false
+            },
+            {
+              "id": "money_transfers",
+              "type": "enum",
+              "name": "денежные переводы",
+              "values": [
+                {
+                  "id": "western_union",
+                  "value": "Western Union"
+                },
+                {
+                  "id": "unistream",
+                  "value": "Юнистрим"
+                },
+                {
+                  "id": "anelik",
+                  "value": "Anelik"
+                }
+              ]
+            },
+            {
+              "id": "servicing_vip_clients",
+              "type": "bool",
+              "name": "обслуживание VIP-клиентов",
+              "value": false
+            },
+            {
+              "id": "services_corporate_clients",
+              "type": "bool",
+              "name": "обслуживание юридических лиц",
+              "value": true
+            }
+          ],
+          "Snippet": {
+            "FeatureSet": [
+              "services_for_individuals",
+              "services_corporate_clients",
+              "servicing_vip_clients"
+            ]
+          },
+          "Links": [
+            {
+              "type": "social",
+              "aref": "#twitter",
+              "href": "https://twitter.com/psbank_ru"
+            },
+            {
+              "type": "social",
+              "aref": "#vkontakte",
+              "href": "https://vk.com/psbank_ru"
+            },
+            {
+              "type": "social",
+              "aref": "#facebook",
+              "href": "https://www.facebook.com/psbank"
+            },
+            {
+              "type": "social",
+              "aref": "#instagram",
+              "href": "https://www.instagram.com/promsvyazbank"
+            },
+            {
+              "type": "social",
+              "aref": "#youtube",
+              "href": "https://www.youtube.com/user/Promsvyazbank"
+            }
+          ],
+          "Properties": {
+            "Property": {
+              "key": "has_verified_owner",
+              "value": "1"
+            }
+          }
+        },
+        "References": {
+          "items": [
+            {
+              "scope": "nyak",
+              "id": "1541657227"
+            }
+          ]
+        },
+        "description": "Кутузовский просп., 30/32, Москва, Россия",
+        "name": "Промсвязьбанк",
+        "boundedBy": [
+          [
+            37.53234919,
+            55.73874335
+          ],
+          [
+            37.54055979,
+            55.74337525
+          ]
+        ],
+        "attributions": [
+          "#foursquare",
+          "#psbank",
+          "#yandex"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.536457,
+          55.741059
+        ]
+      },
+      "geometries": [
+        {
+          "type": "Point",
+          "coordinates": [
+            37.536457,
+            55.741059
+          ]
+        }
+      ]
+    }
+  ]
+}

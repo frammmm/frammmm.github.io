@@ -1,0 +1,51 @@
+{
+  "images": [
+    {
+      "imageUrl": "http://novostroev.ru/upload/resize_cache/iblock/f17/1200_698_1/9ff5125a7dd1.jpg",
+      "href": "http://novostroev.ru/upload/iblock/f17/9ff5125a7dd1.jpg"
+    },
+    {
+      "imageUrl": "http://novostroev.ru/upload/resize_cache/iblock/f99/1200_698_1/bf2a143415c3.jpg",
+      "href": "http://novostroev.ru/upload/iblock/f99/bf2a143415c3.jpg"
+    },
+    {
+      "imageUrl": "http://novostroev.ru/upload/resize_cache/iblock/ccc/1200_698_1/9c7545d78ae2.jpg",
+      "href": "http://novostroev.ru/upload/iblock/ccc/9c7545d78ae2.jpg"
+    },
+    {
+      "imageUrl": "http://novostroev.ru/upload/resize_cache/iblock/4cf/1200_698_1/17e729ae8c51.jpg",
+      "href": "http://novostroev.ru/upload/iblock/4cf/17e729ae8c51.jpg"
+    },
+    {
+      "imageUrl": "http://novostroev.ru/upload/resize_cache/iblock/cb2/1200_698_1/62d9f80c08e0.jpg",
+      "href": "http://novostroev.ru/upload/iblock/cb2/62d9f80c08e0.jpg"
+    },
+    {
+      "imageUrl": "http://novostroev.ru/upload/resize_cache/iblock/179/1200_698_1/9912a0b45ca6.jpg",
+      "href": "http://novostroev.ru/upload/iblock/179/9912a0b45ca6.jpg"
+    },
+    {
+      "imageUrl": "http://novostroev.ru/upload/resize_cache/iblock/544/1200_698_1/b94ab74cbe90.jpg",
+      "href": "http://novostroev.ru/upload/iblock/544/b94ab74cbe90.jpg"
+    },
+    {
+      "imageUrl": "http://novostroev.ru/upload/resize_cache/iblock/414/1200_698_1/fdae69340552.jpg",
+      "href": "http://novostroev.ru/upload/iblock/414/fdae69340552.jpg"
+    }
+  ],
+  "thumbnails": [
+    "http://novostroev.ru/upload/resize_cache/iblock/f17/100_100_2/9ff5125a7dd1.jpg",
+    "http://novostroev.ru/upload/resize_cache/iblock/f99/100_100_2/bf2a143415c3.jpg",
+    "http://novostroev.ru/upload/resize_cache/iblock/ccc/100_100_2/9c7545d78ae2.jpg",
+    "http://novostroev.ru/upload/resize_cache/iblock/4cf/100_100_2/17e729ae8c51.jpg",
+    "http://novostroev.ru/upload/resize_cache/iblock/cb2/100_100_2/62d9f80c08e0.jpg",
+    "http://novostroev.ru/upload/resize_cache/iblock/179/100_100_2/9912a0b45ca6.jpg",
+    "http://novostroev.ru/upload/resize_cache/iblock/544/100_100_2/b94ab74cbe90.jpg",
+    "http://novostroev.ru/upload/resize_cache/iblock/414/100_100_2/fdae69340552.jpg"
+  ],
+  "media": {
+    "review": "https://www.youtube.com/watch?v=a-dPaI1Ob1s",
+    "aero": "https://youtu.be/W9Zl61hvyY4",
+    "panorama": "http://novostroev.ru/upload/panorama/vorobievdom20170608.html"
+  }
+}

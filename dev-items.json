@@ -1,0 +1,129 @@
+{
+  "items_total": 4,
+  "items_per_page": 27,
+  "items_current": 4,
+  "items": [
+    {
+      "location": [[[
+        "55.6538",
+        "37.53"
+      ]]],
+      "id": 2763,
+      "image": "http://novostroev.ru/upload/resize_cache/iblock/15c/276_200_2/nekrasovka1.jpg",
+      "rating": null,
+      "name": "Мой адрес в Некрасовке (Некрасовка)",
+      "price": "3.9 - 12.1 млн. руб.",
+      "priceM": "85.5  - 118.1 тыс. руб./м2",
+      "text": "",
+      "locationCity": "<a href='/novostroyki/moskva/'> Москва</a>, <a href='/novostroyki/moskva/uvao/'> ЮВАО</a>, <a href='/novostroyki/moskva/uvao/nekrasovka/'> р-н Некрасовка</a>",
+      "metroString": "<div class=\"complex-item-n-2__metro\"><a class=\"metro-name-n-2\" data-branch=\"purple\" href='/novostroyki/moskva-metro/tagansko-krasnopresnenskaya/vyhino-8/'>Выхино</a> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"8\" fill=\"#9a9a9a\" height=\"10\"\r\n        viewBox=\"0 0 36.5 43.33\">\r\n    <title>Общественный транспорт</title>\r\n    <g id=\"Слой_2\" data-name=\"Слой 2\">\r\n        <g id=\"Слой_1-2\" data-name=\"Слой 1\">\r\n            <path d=\"M0,31.93a6.54,6.54,0,0,0,2.28,5V41a2.16,2.16,0,0,0,2.28,2.28H6.84A2.16,2.16,0,0,0,9.12,41V38.78H27.38V41a2.15,2.15,0,0,0,2.27,2.28h2.28A2.16,2.16,0,0,0,34.21,41V37a6.55,6.55,0,0,0,2.28-5V9.12c0-8-8.21-9.12-18.26-9.12S0,1.13,0,9.12Zm8,2.28a3.42,3.42,0,0,1,0-6.84,3.42,3.42,0,1,1,0,6.84Zm20.52,0a3.42,3.42,0,1,1,3.42-3.42,3.5,3.5,0,0,1-3.42,3.42Zm3.42-13.69H4.57V9.12H31.93Zm0,0\">\r\n            </path>\r\n    </g>\r\n    </g>\r\n</svg> <span>34 мин.</span></div><div class=\"complex-item-n-2__metro\"><a class=\"metro-name-n-2\" data-branch=\"purple\" href='/novostroyki/moskva-metro/tagansko-krasnopresnenskaya/ghulebino-8/'>Жулебино</a> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"8\" fill=\"#9a9a9a\" height=\"10\"\r\n        viewBox=\"0 0 36.5 43.33\">\r\n    <title>Общественный транспорт</title>\r\n    <g id=\"Слой_2\" data-name=\"Слой 2\">\r\n        <g id=\"Слой_1-2\" data-name=\"Слой 1\">\r\n            <path d=\"M0,31.93a6.54,6.54,0,0,0,2.28,5V41a2.16,2.16,0,0,0,2.28,2.28H6.84A2.16,2.16,0,0,0,9.12,41V38.78H27.38V41a2.15,2.15,0,0,0,2.27,2.28h2.28A2.16,2.16,0,0,0,34.21,41V37a6.55,6.55,0,0,0,2.28-5V9.12c0-8-8.21-9.12-18.26-9.12S0,1.13,0,9.12Zm8,2.28a3.42,3.42,0,0,1,0-6.84,3.42,3.42,0,1,1,0,6.84Zm20.52,0a3.42,3.42,0,1,1,3.42-3.42,3.5,3.5,0,0,1-3.42,3.42Zm3.42-13.69H4.57V9.12H31.93Zm0,0\">\r\n            </path>\r\n    </g>\r\n    </g>\r\n</svg> <span>41 мин.</span></div><div class=\"complex-item-n-2__metro\"><a class=\"metro-name-n-2\" data-branch=\"\" href='/novostroyki/moskva-metro/koghuhovskaya/nekrasovka-15/'>Некрасовка</a></div>",
+      "dedline": "1 кв. 2019",
+      "telNumber": null,
+      "link": "/novostroyki/moskva/uvao/nekrasovka/zhk-nekrasovka/",
+      "recommendation": null,
+      "description": "ЖК «Некрасовка» расположился в Южно-Восточном Административном Округе Москвы (район Некрасовка). Ближайшее к жилому комплексу метро – Лермонтовский проспект (до него можно добраться за 13 минут на транспорте). Застройщик «Управление гражданского строительства» обещает рядом с новостройкой построить детские сады, школы, магазины и офисы. Высота потолков в квартирах составляет 2,8 м.",
+      "youtube_review": "https://www.youtube.com/watch?v=yubVyBi25PI",
+      "file_review": null,
+      "recommended": false,
+      "mortgage": false,
+      "installment": false,
+      "discount": false,
+      "type": "new_buildings"
+    },
+    {
+      "location": [[[
+        "55.7035",
+        "37.9337"
+      ]]],
+      "id": 292905,
+      "image": "http://novostroev.ru/upload/resize_cache/iblock/bcf/276_200_2/grani1.jpg",
+      "rating": null,
+      "name": "Грани",
+      "price": "3.9 - 16 млн. руб.",
+      "priceM": "130.5  - 161.5 тыс. руб./м2",
+      "text": "",
+      "locationCity": "<a href='/novostroyki/moskva/'> Москва</a>, <a href='/novostroyki/moskva/uvao/'> ЮВАО</a>, <a href='/novostroyki/moskva/uvao/tekstilshchiki/'> р-н Текстильщики</a>",
+      "metroString": "<div class=\"complex-item-n-2__metro\"><a class=\"metro-name-n-2\" data-branch=\"purple\" href='/novostroyki/moskva-metro/tagansko-krasnopresnenskaya/tekstilyschiki-8/'>Текстильщики</a><svg xmlns=\"http://www.w3.org/2000/svg\"\r\n    xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"#9a9a9a\" width=\"6\"\r\n    height=\"13\" viewBox=\"0 0 21.63 46.14\">\r\n    <defs>\r\n        <style>\r\n            .cls-1 {\r\n                fill: none;\r\n            }\r\n\r\n            .cls-2 {\r\n                clip-path: url(#clip-path);\r\n            }\r\n        </style>\r\n        <clipPath id=\"clip-path\">\r\n            <rect class=\"cls-1\" y=\"0.02\" width=\"22.17\" height=\"46.17\"></rect>\r\n        </clipPath>\r\n    </defs>\r\n    <title>Пешком</title>\r\n    <g id=\"Слой_2\" data-name=\"Слой 2\">\r\n        <g id=\"Слой_1-2\" data-name=\"Слой 1\">\r\n            <g class=\"cls-2\">\r\n                <path\r\n                        d=\"M21.23,24.53l-4.62-5.1A2.63,2.63,0,0,1,16,18l-.17-5.29v-.15a1.48,1.48,0,0,0-1.48-1.48H8.08a2.2,2.2,0,0,0-1.85,1.17L.14,25.22a1.45,1.45,0,0,0,.73,1.95l.9.4a1.49,1.49,0,0,0,.61.13,1.55,1.55,0,0,0,1.38-.84L6.6,21.17v5.7l0,.1L1.74,42.07a2.36,2.36,0,0,0,1.64,3l.32.09a2.49,2.49,0,0,0,.65.09,2.59,2.59,0,0,0,2.45-1.78l4.5-14.1,1.6,3.91a16.35,16.35,0,0,1,.92,3.65l.76,7.2a2.17,2.17,0,0,0,2.17,2,2.37,2.37,0,0,0,.56-.07l.32-.08a2.76,2.76,0,0,0,2-3l-1.13-8.78a17.36,17.36,0,0,0-1.07-3.89l-1.53-3.52-.07-.13V24.31l2.75,2.88a1.42,1.42,0,0,0,2.07,0l.51-.54a1.59,1.59,0,0,0,0-2.11Zm0,0\"></path><path\r\n                        d=\"M11.65,9.86A4.93,4.93,0,1,0,6.72,4.93a4.93,4.93,0,0,0,4.93,4.93Zm0,0\"></path>\r\n            </g>\r\n        </g>\r\n    </g>\r\n</svg> <span>19 мин.</span></div><div class=\"complex-item-n-2__metro\"><a class=\"metro-name-n-2\" data-branch=\"red\" href='/novostroyki/moskva-metro/mtsk/novokhokhlovskaya/'>Новохохловская (МЦК)</a> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"8\" fill=\"#9a9a9a\" height=\"10\"\r\n        viewBox=\"0 0 36.5 43.33\">\r\n    <title>Общественный транспорт</title>\r\n    <g id=\"Слой_2\" data-name=\"Слой 2\">\r\n        <g id=\"Слой_1-2\" data-name=\"Слой 1\">\r\n            <path d=\"M0,31.93a6.54,6.54,0,0,0,2.28,5V41a2.16,2.16,0,0,0,2.28,2.28H6.84A2.16,2.16,0,0,0,9.12,41V38.78H27.38V41a2.15,2.15,0,0,0,2.27,2.28h2.28A2.16,2.16,0,0,0,34.21,41V37a6.55,6.55,0,0,0,2.28-5V9.12c0-8-8.21-9.12-18.26-9.12S0,1.13,0,9.12Zm8,2.28a3.42,3.42,0,0,1,0-6.84,3.42,3.42,0,1,1,0,6.84Zm20.52,0a3.42,3.42,0,1,1,3.42-3.42,3.5,3.5,0,0,1-3.42,3.42Zm3.42-13.69H4.57V9.12H31.93Zm0,0\">\r\n            </path>\r\n    </g>\r\n    </g>\r\n</svg> <span>36 мин.</span></div>",
+      "dedline": "2 кв. 2020",
+      "telNumber": "+7 (495) 021-11-47",
+      "link": "/novostroyki/moskva/uvao/tekstilshchiki/grani/",
+      "recommendation": null,
+      "description": "\r\n\tЖилой комплекс «Грани» от застройщика «ГК “Основа”» относится к комфорт-классу. Его возведение начинается в 1-ом Грайвороновском проезде в городском районе Текстильщики Юго-Западного административного округа Москвы. Объект будет представлять собой корпуса, построенные по индивидуальному архитектурному проекту в современном стиле с удобными и функциональными квартирами.\r\n\r\n\r\n\tВблизи новостройки пролегают Волгоградский проспект и его дублёр, неподалёку находится развязка с Т...",
+      "youtube_review": null,
+      "file_review": null,
+      "recommended": false,
+      "mortgage": false,
+      "installment": false,
+      "discount": false,
+      "type": "new_buildings"
+    },
+    {
+      "location": [[[
+        "55.6019",
+        "37.7301"
+      ]]],
+      "id": 231389,
+      "image": "http://novostroev.ru/upload/resize_cache/iblock/c3a/276_200_2/yasen1.jpg",
+      "rating": null,
+      "name": "Ясеневая 14",
+      "price": "3.6 - 13 млн. руб.",
+      "priceM": "133.3  - 208.9 тыс. руб./м2",
+      "text": "",
+      "locationCity": "<a href='/novostroyki/moskva/'> Москва</a>, <a href='/novostroyki/moskva/uao/'> ЮАО</a>, <a href='/novostroyki/moskva/uao/orekhovo-borisovo-yuzhnoe/'> р-н Орехово-Борисово Южное</a>",
+      "metroString": "<div class=\"complex-item-n-2__metro\"><a class=\"metro-name-n-2\" data-branch=\"green\" href='/novostroyki/moskva-metro/zamoskvoreckaya/domodedovskaya-3/'>Домодедовская</a><svg xmlns=\"http://www.w3.org/2000/svg\"\r\n    xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"#9a9a9a\" width=\"6\"\r\n    height=\"13\" viewBox=\"0 0 21.63 46.14\">\r\n    <defs>\r\n        <style>\r\n            .cls-1 {\r\n                fill: none;\r\n            }\r\n\r\n            .cls-2 {\r\n                clip-path: url(#clip-path);\r\n            }\r\n        </style>\r\n        <clipPath id=\"clip-path\">\r\n            <rect class=\"cls-1\" y=\"0.02\" width=\"22.17\" height=\"46.17\"></rect>\r\n        </clipPath>\r\n    </defs>\r\n    <title>Пешком</title>\r\n    <g id=\"Слой_2\" data-name=\"Слой 2\">\r\n        <g id=\"Слой_1-2\" data-name=\"Слой 1\">\r\n            <g class=\"cls-2\">\r\n                <path\r\n                        d=\"M21.23,24.53l-4.62-5.1A2.63,2.63,0,0,1,16,18l-.17-5.29v-.15a1.48,1.48,0,0,0-1.48-1.48H8.08a2.2,2.2,0,0,0-1.85,1.17L.14,25.22a1.45,1.45,0,0,0,.73,1.95l.9.4a1.49,1.49,0,0,0,.61.13,1.55,1.55,0,0,0,1.38-.84L6.6,21.17v5.7l0,.1L1.74,42.07a2.36,2.36,0,0,0,1.64,3l.32.09a2.49,2.49,0,0,0,.65.09,2.59,2.59,0,0,0,2.45-1.78l4.5-14.1,1.6,3.91a16.35,16.35,0,0,1,.92,3.65l.76,7.2a2.17,2.17,0,0,0,2.17,2,2.37,2.37,0,0,0,.56-.07l.32-.08a2.76,2.76,0,0,0,2-3l-1.13-8.78a17.36,17.36,0,0,0-1.07-3.89l-1.53-3.52-.07-.13V24.31l2.75,2.88a1.42,1.42,0,0,0,2.07,0l.51-.54a1.59,1.59,0,0,0,0-2.11Zm0,0\"></path><path\r\n                        d=\"M11.65,9.86A4.93,4.93,0,1,0,6.72,4.93a4.93,4.93,0,0,0,4.93,4.93Zm0,0\"></path>\r\n            </g>\r\n        </g>\r\n    </g>\r\n</svg> <span>17 мин.</span></div>",
+      "dedline": "4 кв. 2020",
+      "telNumber": null,
+      "link": "/novostroyki/moskva/uao/orekhovo-borisovo-yuzhnoe/yasenevaya-14/",
+      "recommendation": null,
+      "description": "\r\n\tНа Ясеневой улице в городском районе Орехово-Борисово Южное (Южный административный округ Москвы) начинается возведение жилого комплекса «Ясененвая 14». Застройщиком объекта выступает «Группа Компаний ПИК». Новый квартал включит в себя жилые дома, объекты социально-коммерческой инфраструктуры, удобные транспортные артерии.\r\n\r\n\r\n\tНеподалёку от места строительства ЖК Каширское шоссе пересекается с МКАД, что удобно для владельцев автомобилей – можно добраться и в другие район...",
+      "youtube_review": null,
+      "file_review": null,
+      "recommended": false,
+      "mortgage": false,
+      "installment": false,
+      "discount": false,
+      "type": "new_buildings"
+    },
+    {
+      "location": [[[
+        "55.719",
+        "37.7267"
+      ]]],
+      "id": 2198,
+      "image": "http://novostroev.ru/upload/resize_cache/iblock/a2e/276_200_2/6c1f46636481e78ff5d3a713320871b5.jpg",
+      "rating": null,
+      "name": "Букинист",
+      "price": "5 - 10.3 млн. руб.",
+      "priceM": "140  - 165 тыс. руб./м2",
+      "text": "",
+      "locationCity": "<a href='/novostroyki/moskva/'> Москва</a>, <a href='/novostroyki/moskva/uzao/'> ЮЗАО</a>, <a href='/novostroyki/moskva/uzao/konkovo/'> р-н Коньково</a>",
+      "metroString": "<div class=\"complex-item-n-2__metro\"><a class=\"metro-name-n-2\" data-branch=\"orange\" href='/novostroyki/moskva-metro/kalughsko-righskaya/kalughskaya-7/'>Калужская</a><svg xmlns=\"http://www.w3.org/2000/svg\"\r\n    xmlns:xlink=\"http://www.w3.org/1999/xlink\" fill=\"#9a9a9a\" width=\"6\"\r\n    height=\"13\" viewBox=\"0 0 21.63 46.14\">\r\n    <defs>\r\n        <style>\r\n            .cls-1 {\r\n                fill: none;\r\n            }\r\n\r\n            .cls-2 {\r\n                clip-path: url(#clip-path);\r\n            }\r\n        </style>\r\n        <clipPath id=\"clip-path\">\r\n            <rect class=\"cls-1\" y=\"0.02\" width=\"22.17\" height=\"46.17\"></rect>\r\n        </clipPath>\r\n    </defs>\r\n    <title>Пешком</title>\r\n    <g id=\"Слой_2\" data-name=\"Слой 2\">\r\n        <g id=\"Слой_1-2\" data-name=\"Слой 1\">\r\n            <g class=\"cls-2\">\r\n                <path\r\n                        d=\"M21.23,24.53l-4.62-5.1A2.63,2.63,0,0,1,16,18l-.17-5.29v-.15a1.48,1.48,0,0,0-1.48-1.48H8.08a2.2,2.2,0,0,0-1.85,1.17L.14,25.22a1.45,1.45,0,0,0,.73,1.95l.9.4a1.49,1.49,0,0,0,.61.13,1.55,1.55,0,0,0,1.38-.84L6.6,21.17v5.7l0,.1L1.74,42.07a2.36,2.36,0,0,0,1.64,3l.32.09a2.49,2.49,0,0,0,.65.09,2.59,2.59,0,0,0,2.45-1.78l4.5-14.1,1.6,3.91a16.35,16.35,0,0,1,.92,3.65l.76,7.2a2.17,2.17,0,0,0,2.17,2,2.37,2.37,0,0,0,.56-.07l.32-.08a2.76,2.76,0,0,0,2-3l-1.13-8.78a17.36,17.36,0,0,0-1.07-3.89l-1.53-3.52-.07-.13V24.31l2.75,2.88a1.42,1.42,0,0,0,2.07,0l.51-.54a1.59,1.59,0,0,0,0-2.11Zm0,0\"></path><path\r\n                        d=\"M11.65,9.86A4.93,4.93,0,1,0,6.72,4.93a4.93,4.93,0,0,0,4.93,4.93Zm0,0\"></path>\r\n            </g>\r\n        </g>\r\n    </g>\r\n</svg> <span>12 мин.</span></div>",
+      "dedline": "3 кв. 2019",
+      "telNumber": null,
+      "link": "/novostroyki/moskva/uzao/konkovo/bukinist/",
+      "recommendation": null,
+      "description": "ЖК «Букинист» возводится застройщиком Крост Недвижимость в ЮЗАО Москвы. Поскольку новостройка находится в районе Коньково, ближайшее к ней метро – Калужская (добраться можно за 10 минут на автомобиле). Квартиры «бизнес-класса» имеют разную площадь – от 27,6 до 66,8 м2.",
+      "youtube_review": null,
+      "file_review": null,
+      "recommended": false,
+      "mortgage": false,
+      "installment": false,
+      "discount": false,
+      "type": "new_buildings"
+    }
+  ],
+  "banner": {
+    "vertical": {
+      "htmlContent": null,
+      "href": "/bitrix/rk.php?goto=http%3A%2F%2Flubercysamolet.ru%2F%3Futm_source%3Dnovostroev%26utm_medium%3Dbanner%26utm_content%3Dbanner%26utm_campaign%3Doctober18&banner_id=761&event1=banner&event2=click&event3=1+%2F+%5B761%5D+%5BBANNER276X403%5D+%D0%96%D0%9A+%22%D0%9B%D1%8E%D0%B1%D0%B5%D1%80%D1%86%D1%8B+2018%22",
+      "id": "761",
+      "srcImage": "/upload/rk/ec4/276-403.gif"
+    },
+    "horizontal": {
+      "htmlContent": "<iframe class=\"banner__iframe\" src=\"/upload/banners/rasskazovo/1272x120.html\" allowfullscreen=\"\" scrolling=\"no\" frameborder=\"no\"></iframe>",
+      "href": "/bitrix/rk.php?goto=http%3A%2F%2Fwww.sz-rasskazovo.ru%2F%3Futm_source%3Dnovostroev%26utm_medium%3Dcpc%26utm_campaign%3Drasskazovo%26utm_content%3Dbanner&banner_id=1053&event1=banner&event2=click&event3=1+%2F+%5B1053%5D+%5BBANNER1272X120%5D+%D0%91%D0%B0%D0%BD%D0%BD%D0%B5%D1%80+%22%D0%A0%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%D0%BE%22%2C+1272X120",
+      "id": "1053",
+      "srcImage": "BASE_TEMPLATE_URL/assets/images/no-image.svg"
+    }
+  }
+}

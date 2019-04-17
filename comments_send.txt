@@ -1,0 +1,1 @@
+{"action":"afterRegister","success":true,"user_auth":"yes"}
