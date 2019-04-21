@@ -21,7 +21,7 @@
     <body class="page">
         <div class="top-n-2 show-n-2 show-n-2_lg">
             <a class="top-n-2__banner" href="#">
-                <img src="static/img/content/1920.jpg" />
+                <img class="lazy" data-src="static/img/content/1920.jpg" />
             </a>
         </div>
         <div class="wide-banner-n-2 wide-banner-n-2_closing js-top-banner hidden-n-2 hidden-n-2_lg">
@@ -34,9 +34,9 @@
                 </div>
             </div>
             <a href="/#">
-                <img class="show-n-2_md" src="static/img/content/1024-100.jpg" />
-                <img class="show-n-2_sm" src="static/img/content/768-100.jpg" />
-                <img class="show-n-2_xs" src="static/img/content/375-100.jpg" />
+                <img class="lazy show-n-2_md" data-src="static/img/content/1024-100.jpg" />
+                <img class="lazy show-n-2_sm" data-src="static/img/content/768-100.jpg" />
+                <img class="lazy show-n-2_xs" data-src="static/img/content/375-100.jpg" />
             </a>
         </div>
         <div class="container page-wrapper">
@@ -319,7 +319,7 @@
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -338,11 +338,11 @@
                             <div class="col col_xs-12 col_sm-6 col_md-3">
                                 <div class="adv-complex-n-2 adv-complex-n-2_news-item">
                                     <a class="adv-complex-n-2__image-wrapper" href="/#">
-                                        <img class="adv-complex-n-2__image" src="static//img/content/news-switchable.jpg" alt="" role="presentation" />
+                                        <img class="adv-complex-n-2__lazy image" data-src="static//img/content/news-switchable.jpg" alt="" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -359,7 +359,7 @@
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -372,11 +372,11 @@
                             <div class="col col_xs-12 col_sm-6 col_md-3">
                                 <div class="adv-complex-n-2 adv-complex-n-2_news-item">
                                     <a class="adv-complex-n-2__image-wrapper" href="/#">
-                                        <img class="adv-complex-n-2__image" src="static//img/content/news-switchable.jpg" alt="" role="presentation" />
+                                        <img class="adv-complex-n-2__lazy image" data-src="static//img/content/news-switchable.jpg" alt="" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -393,7 +393,7 @@
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -406,11 +406,11 @@
                             <div class="col col_xs-12 col_sm-6 col_md-3">
                                 <div class="adv-complex-n-2 adv-complex-n-2_news-item">
                                     <a class="adv-complex-n-2__image-wrapper" href="/#">
-                                        <img class="adv-complex-n-2__image" src="static//img/content/news-switchable.jpg" alt="" role="presentation" />
+                                        <img class="adv-complex-n-2__lazy image" data-src="static//img/content/news-switchable.jpg" alt="" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -426,11 +426,11 @@
                             <div class="col col_xs-12 col_sm-6 col_md-3">
                                 <div class="adv-complex-n-2 adv-complex-n-2_news-item">
                                     <a class="adv-complex-n-2__image-wrapper" href="/#">
-                                        <img class="adv-complex-n-2__image" src="static//img/content/news-switchable.jpg" alt="" role="presentation" />
+                                        <img class="adv-complex-n-2__lazy image" data-src="static//img/content/news-switchable.jpg" alt="" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -447,7 +447,7 @@
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -460,11 +460,11 @@
                             <div class="col col_xs-12 col_sm-6 col_md-3">
                                 <div class="adv-complex-n-2 adv-complex-n-2_news-item">
                                     <a class="adv-complex-n-2__image-wrapper" href="/#">
-                                        <img class="adv-complex-n-2__image" src="static//img/content/news-switchable.jpg" alt="" role="presentation" />
+                                        <img class="adv-complex-n-2__lazy image" data-src="static//img/content/news-switchable.jpg" alt="" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -481,7 +481,7 @@
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -494,11 +494,11 @@
                             <div class="col col_xs-12 col_sm-6 col_md-3">
                                 <div class="adv-complex-n-2 adv-complex-n-2_news-item">
                                     <a class="adv-complex-n-2__image-wrapper" href="/#">
-                                        <img class="adv-complex-n-2__image" src="static//img/content/news-switchable.jpg" alt="" role="presentation" />
+                                        <img class="adv-complex-n-2__lazy image" data-src="static//img/content/news-switchable.jpg" alt="" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -512,7 +512,7 @@
                                 <div class="adv-complex-n-2 adv-complex-n-2_news-item">
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -526,11 +526,11 @@
                             <div class="col col_xs-12 col_sm-6 col_md-3">
                                 <div class="adv-complex-n-2 adv-complex-n-2_news-item">
                                     <a class="adv-complex-n-2__image-wrapper" href="/#">
-                                        <img class="adv-complex-n-2__image" src="static//img/content/news-switchable.jpg" alt="" role="presentation" />
+                                        <img class="adv-complex-n-2__lazy image" data-src="static//img/content/news-switchable.jpg" alt="" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -547,7 +547,7 @@
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -563,11 +563,11 @@
                             <div class="col col_xs-12 col_sm-6 col_md-3">
                                 <div class="adv-complex-n-2 adv-complex-n-2_news-item">
                                     <a class="adv-complex-n-2__image-wrapper" href="/#">
-                                        <img class="adv-complex-n-2__image" src="static//img/content/news-switchable.jpg" alt="" role="presentation" />
+                                        <img class="adv-complex-n-2__lazy image" data-src="static//img/content/news-switchable.jpg" alt="" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -584,7 +584,7 @@
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -597,11 +597,11 @@
                             <div class="col col_xs-12 col_sm-6 col_md-3">
                                 <div class="adv-complex-n-2 adv-complex-n-2_news-item">
                                     <a class="adv-complex-n-2__image-wrapper" href="/#">
-                                        <img class="adv-complex-n-2__image" src="static//img/content/news-switchable.jpg" alt="" role="presentation" />
+                                        <img class="adv-complex-n-2__lazy image" data-src="static//img/content/news-switchable.jpg" alt="" role="presentation" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
@@ -618,7 +618,7 @@
                                     </a>
                                     <a class="adv-complex-n-2__content" href="/#">
                                         <div class="adv-complex-n-2__meta">
-                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"> <svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <div class="meta-list"><span class="meta-item">30 мая 2018</span><span class="meta-item"><svg width="15" height="9" viewBox="0 0 15 9" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0.0561798 4.125C1.62921 1.575 4.40075 0 7.47191 0C10.5431 0 13.3146 1.575 14.8876 4.125C15.0375 4.35 15.0375 4.65 14.8876 4.875C13.3895 7.425 10.5431 9 7.47191 9C4.40075 9 1.62921 7.425 0.0561798 4.875C-0.0187266 4.65 -0.0187266 4.35 0.0561798 4.125ZM7.47191 7.5C9.86891 7.5 12.0412 6.375 13.3146 4.5C12.0412 2.625 9.86891 1.5 7.47191 1.5C5.07491 1.5 2.90262 2.625 1.62921 4.5C2.90262 6.375 5.07491 7.5 7.47191 7.5ZM5.22472 4.5C5.22472 4.05 5.52434 3.75 5.97378 3.75C6.42322 3.75 6.72285 4.05 6.72285 4.5C6.72285 4.95 7.02247 5.25 7.47191 5.25C7.92135 5.25 8.22097 4.95 8.22097 4.5C8.22097 4.05 7.92135 3.75 7.47191 3.75C7.02247 3.75 6.72285 3.45 6.72285 3C6.72285 2.55 7.02247 2.25 7.47191 2.25C8.74532 2.25 9.7191 3.225 9.7191 4.5C9.7191 5.775 8.74532 6.75 7.47191 6.75C6.1985 6.75 5.22472 5.775 5.22472 4.5Z" fill="#A9B7C7"/>
 </svg>
 23 891</span>
