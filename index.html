@@ -11,8 +11,8 @@
         <meta content="telephone=no" name="format-detection">
         <meta name="HandheldFriendly" content="true">
         <link href="static/css/main.min.css" rel="stylesheet" type="text/css">
-        <link rel="preload" href="static/js/chunks.min.js" as="script">
-        <link rel="preload" href="build-redesign/static/js/filter.min.js" as="script">
+        <!-- <link rel="preload" href="build-redesign/static/js/chunks.min.js" as="script"> -->
+        <!-- <link rel="preload" href="build-redesign/static/js/filter.min.js" as="script">         -->
         <link rel="icon" type="image/x-icon" href="favicon.ico">
         <script>
             (function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)
@@ -1919,19 +1919,14 @@
         </script>
         <script src="static/js/main.min.js"></script>
         <script src="static/js/vendors~main.min.js"></script>
+        <script async src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@8.17.0/dist/lazyload.min.js"></script>
         <script>
-            (function (w, d) {
-              var b = d.getElementsByTagName('body')[0];
-              var s = d.createElement("script");
-              var v = !("IntersectionObserver" in w) ? "8.17.0" : "10.19.1";
-              s.async = true; // This includes the script as async. See the "recipes" section for more information about async loading of LazyLoad.
-              s.src = "https://cdn.jsdelivr.net/npm/vanilla-lazyload@" + v + "/dist/lazyload.min.js";
+            (function (w) {
               w.lazyLoadOptions = { elements_selector: ".lazy",  };
-              b.appendChild(s);
               w.addEventListener("LazyLoad::Initialized", function (e) {
                 w.lazyloadInstance = e.detail.instance;
               }, false);
-            }(window, document));
+            }(window));
         </script>
     </body>
 
