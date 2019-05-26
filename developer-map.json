@@ -36,6 +36,7 @@
       "recommended": false,
       "mortgage": false,
       "installment": false,
+      "dolgostroy": true,
       "discount": false,
       "type": "new_buildings",
       "offers": [

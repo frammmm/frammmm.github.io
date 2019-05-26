@@ -73,7 +73,8 @@
           "link": "\/zastroyshchiki\/eksperimentalnyy-keramicheskiy-zavod\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": true
     },
     {
       "location": [
@@ -232,7 +233,8 @@
           "link": "\/zastroyshchiki\/brusnika\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -360,7 +362,8 @@
           "link": "\/zastroyshchiki\/samolet-development\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -1189,7 +1192,8 @@
           "link": "\/zastroyshchiki\/samolet-development\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -1267,7 +1271,8 @@
           "link": "\/zastroyshchiki\/gruppa-kompaniy-mits\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -1710,7 +1715,8 @@
           "link": "\/zastroyshchiki\/gruppa-kompaniy-pik\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -1894,7 +1900,8 @@
           "link": "\/zastroyshchiki\/rg-development\/"
         }
       ],
-      "priceCategory": "yellow"
+      "priceCategory": "yellow",
+      "unfinished": false
     },
     {
       "location": [
@@ -1970,7 +1977,8 @@
           "link": "\/zastroyshchiki\/tsentr-invest\/"
         }
       ],
-      "priceCategory": "red"
+      "priceCategory": "red",
+      "unfinished": false
     },
     {
       "location": [
@@ -2109,7 +2117,8 @@
           "link": "\/zastroyshchiki\/shater-development\/"
         }
       ],
-      "priceCategory": "red"
+      "priceCategory": "red",
+      "unfinished": false
     },
     {
       "location": [
@@ -2205,7 +2214,8 @@
           "link": "\/zastroyshchiki\/lider-invest\/"
         }
       ],
-      "priceCategory": "red"
+      "priceCategory": "red",
+      "unfinished": false
     },
     {
       "location": [
@@ -2438,7 +2448,8 @@
           "link": "\/zastroyshchiki\/alternativnye-stroitelnye-kontseptsii\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -2671,7 +2682,8 @@
           "link": "\/zastroyshchiki\/mr-group\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -2912,7 +2924,8 @@
           "link": "\/zastroyshchiki\/tiros-invest\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -3091,7 +3104,8 @@
           "link": "\/zastroyshchiki\/kapital\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -3402,7 +3416,8 @@
           "link": "\/zastroyshchiki\/investitsionno-stroitelnaya-kompaniya-ndk\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -3578,7 +3593,8 @@
           "link": "\/zastroyshchiki\/isk-memfis\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -3668,7 +3684,8 @@
           "link": "\/zastroyshchiki\/zavod-zhbi-3\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -3848,7 +3865,8 @@
       },
       "reviewsTotal": 0,
       "developers": [],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -3915,7 +3933,8 @@
           "link": "\/zastroyshchiki\/solnechnogorsk-komfort\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -3976,7 +3995,8 @@
           "link": "\/zastroyshchiki\/fintrastoyl\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -4734,7 +4754,8 @@
           "link": "\/zastroyshchiki\/tsentr-stroitelnykh-tekhnologiy-germes\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -4932,7 +4953,8 @@
           "link": "\/zastroyshchiki\/triumf-elit-konstrakshn-ink\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -5030,7 +5052,8 @@
           "link": "\/zastroyshchiki\/orbita\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -5109,7 +5132,8 @@
           "link": "\/zastroyshchiki\/dvina\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -5264,7 +5288,8 @@
           "link": "\/zastroyshchiki\/metaler\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -5559,7 +5584,8 @@
           "link": "\/zastroyshchiki\/pkf-stroybeton\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     },
     {
       "location": [
@@ -5653,7 +5679,8 @@
           "link": "\/zastroyshchiki\/stroyinvest\/"
         }
       ],
-      "priceCategory": "green"
+      "priceCategory": "green",
+      "unfinished": false
     }
   ],
   "banner": {
