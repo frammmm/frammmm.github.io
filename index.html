@@ -11,8 +11,12 @@
         <meta content="telephone=no" name="format-detection">
         <meta name="HandheldFriendly" content="true">
         <link rel="icon" type="image/x-icon" href="favicon.ico">
+        <link href="main.css" rel="stylesheet" type="text/css">
         <link href="/static/css/main.1strdop8f3g.css" rel="stylesheet" type="text/css">
-        <script>!function(n){"use strict";n.loadCSS||(n.loadCSS=function(){});var o=loadCSS.relpreload={};if(o.support=function(){var e;try{e=n.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),o.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.addEventListener?t.removeEventListener("load",a):t.attachEvent&&t.detachEvent("onload",a),t.setAttribute("onload",null),t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},o.poly=function(){if(!o.support())for(var t=n.document.getElementsByTagName("link"),e=0;e<t.length;e++){var a=t[e];"preload"!==a.rel||"style"!==a.getAttribute("as")||a.getAttribute("data-loadcss")||(a.setAttribute("data-loadcss",!0),o.bindMediaToggle(a))}},!o.support()){o.poly();var t=n.setInterval(o.poly,500);n.addEventListener?n.addEventListener("load",function(){o.poly(),n.clearInterval(t)}):n.attachEvent&&n.attachEvent("onload",function(){o.poly(),n.clearInterval(t)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:n.loadCSS=loadCSS}("undefined"!=typeof global?global:this);</script>
+        <!-- <link rel="preload" href="static/js/main.1strdop8f3g.js" as="script"> -->
+        <!-- <link rel="preload" href="static/js/vendors~main.1strdop8f3g.js" as="script"> -->
+        <!-- <link rel="preload" href="/static/css/main.1strdop8f3g.css" as="style"> -->
+        <!-- <link rel="preload" href="build-redesign/static/js/filter.1strdop8f3g.js" as="script"> -->
     </head>
 
     <body class="page">
@@ -1910,8 +1914,8 @@
               'use strict';var _createClass=function(){function a(b,c){for(var e,d=0;d<c.length;d++)e=c[d],e.enumerable=e.enumerable||!1,e.configurable=!0,'value'in e&&(e.writable=!0),Object.defineProperty(b,e.key,e)}return function(b,c,d){return c&&a(b.prototype,c),d&&a(b,d),b}}();function _classCallCheck(a,b){if(!(a instanceof b))throw new TypeError('Cannot call a class as a function')}var SwitchableButton=function(){function a(b){_classCallCheck(this,a),this.element=b,this.content={initial:this.element.querySelector('.button-n-2__content_initial'),hidden:this.element.querySelector('.button-n-2__content_hidden')},this.onClick=this.onClick.bind(this),this.element.addEventListener('click',this.onClick)}return _createClass(a,null,[{key:'init',value:function init(){for(var c=document.querySelectorAll('.button-n-2_switchable'),b=0;b<c.length;b++)new a(c[b])}}]),_createClass(a,[{key:'onClick',value:function onClick(b){b.preventDefault(),this.content.initial.style.display='none',this.content.hidden.style.display='block',this.element.classList.contains('button-n-2_type_phone')&&window.yaCounter39897405&&window.yaCounter39897405.reachGoal('show_telephone'),this.element.removeEventListener('click',this.onClick)}}]),a}(),PhoneNumber=function(){function a(b){_classCallCheck(this,a),this.numberLink=b,'true'===b.getAttribute('data-init')||(this.numberBlock=this.numberLink.querySelector('.phone-number-n-2__number'),this.capNumber=this.numberBlock.querySelector('span'),this.onNumberClick=this.onNumberClick.bind(this),this.bindEvents())}return _createClass(a,null,[{key:'init',value:function init(){for(var c=document.querySelectorAll('.phone-number-n-2'),b=0;b<c.length;b++)new a(c[b])}}]),_createClass(a,[{key:'bindEvents',value:function bindEvents(){this.numberLink.addEventListener('click',this.onNumberClick),this.numberLink.setAttribute('data-init','true')}},{key:'onNumberClick',value:function onNumberClick(b){if(this.numberLink.querySelector('span')){b.preventDefault();var c=this.numberLink.getAttribute('data-tel');this.numberBlock.removeChild(this.capNumber),this.numberBlock.innerText=c,this.numberLink.href='tel: '+c}this.numberLink.removeEventListener('click',this.onNumberClick)}}]),a}();PhoneNumber.init(),SwitchableButton.init();
             })();
         </script>
-        <script src="static/js/main.1strdop8f3g.js"></script>
-        <script src="static/js/vendors~main.1strdop8f3g.js"></script>
+        <script defer src="static/js/main.1strdop8f3g.js"></script>
+        <script defer src="static/js/vendors~main.1strdop8f3g.js"></script>
         <script>
             (function (w, d) {
               var b = d.getElementsByTagName('body')[0];
