@@ -26,6 +26,17 @@
         height: 1px;
         width: 1px;
     }</style>
+        <picture>
+            <source srcset="data:image" data-srcset="https://picsum.photos/200/3002" type="image/webp">
+            <source srcset="data:image" data-srcset="https://picsum.photos/200/3003"  type="image/png">
+            <img
+              class="main-search-category-n-2__image-big"
+              src="data:image"
+              data-src="https://picsum.photos/200/3001"
+              alt=""
+              role="presentation"
+            />
+        </picture>
         <img src="data:image" alt="" data-src="https://picsum.photos/200/300">
         <img src="data:image" alt="" data-src="https://picsum.photos/200/10">
         <img src="data:image" alt="" data-src="https://picsum.photos/200/20">
@@ -53,7 +64,7 @@
               var v = !("IntersectionObserver" in w) ? "8.17.0" : "10.19.1";
               s.async = true; // This includes the script as async. See the "recipes" section for more information about async loading of LazyLoad.
               s.src = "https://cdn.jsdelivr.net/npm/vanilla-lazyload@" + v + "/dist/lazyload.min.js";
-              w.lazyLoadOptions = { elements_selector: "[src='data:image']",  };
+              w.lazyLoadOptions = { elements_selector: "[src='data:image'],.lazy",  };
               b.appendChild(s);
               w.addEventListener("LazyLoad::Initialized", function (e) {
                 w.lazyloadInstance = e.detail.instance;
