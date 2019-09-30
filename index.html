@@ -20,7 +20,7 @@
     </head>
 
     <body class="page">
-        <img src alt="" class="lazy" data-src="https://picsum.photos/200/300">
+        <img src="lazy" alt="" data-src="https://picsum.photos/200/300">
         <script>
             (function() {
               'use strict';var _createClass=function(){function a(b,c){for(var e,d=0;d<c.length;d++)e=c[d],e.enumerable=e.enumerable||!1,e.configurable=!0,'value'in e&&(e.writable=!0),Object.defineProperty(b,e.key,e)}return function(b,c,d){return c&&a(b.prototype,c),d&&a(b,d),b}}();function _classCallCheck(a,b){if(!(a instanceof b))throw new TypeError('Cannot call a class as a function')}var SwitchableButton=function(){function a(b){_classCallCheck(this,a),this.element=b,this.content={initial:this.element.querySelector('.button-n-2__content_initial'),hidden:this.element.querySelector('.button-n-2__content_hidden')},this.onClick=this.onClick.bind(this),this.element.addEventListener('click',this.onClick)}return _createClass(a,null,[{key:'init',value:function init(){for(var c=document.querySelectorAll('.button-n-2_switchable'),b=0;b<c.length;b++)new a(c[b])}}]),_createClass(a,[{key:'onClick',value:function onClick(b){b.preventDefault(),this.content.initial.style.display='none',this.content.hidden.style.display='block',this.element.classList.contains('button-n-2_type_phone')&&window.yaCounter39897405&&window.yaCounter39897405.reachGoal('show_telephone'),this.element.removeEventListener('click',this.onClick)}}]),a}(),PhoneNumber=function(){function a(b){_classCallCheck(this,a),this.numberLink=b,'true'===b.getAttribute('data-init')||(this.numberBlock=this.numberLink.querySelector('.phone-number-n-2__number'),this.capNumber=this.numberBlock.querySelector('span'),this.onNumberClick=this.onNumberClick.bind(this),this.bindEvents())}return _createClass(a,null,[{key:'init',value:function init(){for(var c=document.querySelectorAll('.phone-number-n-2'),b=0;b<c.length;b++)new a(c[b])}}]),_createClass(a,[{key:'bindEvents',value:function bindEvents(){this.numberLink.addEventListener('click',this.onNumberClick),this.numberLink.setAttribute('data-init','true')}},{key:'onNumberClick',value:function onNumberClick(b){if(this.numberLink.querySelector('span')){b.preventDefault();var c=this.numberLink.getAttribute('data-tel');this.numberBlock.removeChild(this.capNumber),this.numberBlock.innerText=c,this.numberLink.href='tel: '+c}this.numberLink.removeEventListener('click',this.onNumberClick)}}]),a}();PhoneNumber.init(),SwitchableButton.init();
@@ -35,7 +35,7 @@
               var v = !("IntersectionObserver" in w) ? "8.17.0" : "10.19.1";
               s.async = true; // This includes the script as async. See the "recipes" section for more information about async loading of LazyLoad.
               s.src = "https://cdn.jsdelivr.net/npm/vanilla-lazyload@" + v + "/dist/lazyload.min.js";
-              w.lazyLoadOptions = { elements_selector: ".lazy",  };
+              w.lazyLoadOptions = { elements_selector: "[src='lazy']",  };
               b.appendChild(s);
               w.addEventListener("LazyLoad::Initialized", function (e) {
                 w.lazyloadInstance = e.detail.instance;
